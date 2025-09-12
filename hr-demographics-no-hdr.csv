@@ -1,0 +1,1471 @@
+﻿133,37,6,4,Human Resources,Male,Divorced,4,Y
+140,59,2,4,Human Resources,Female,Married,9,Y
+148,54,26,3,Human Resources,Female,Single,2,Y
+184,30,9,3,Human Resources,Male,Married,0,Y
+424,31,2,3,Human Resources,Male,Married,3,Y
+590,34,23,3,Human Resources,Female,Divorced,9,Y
+731,41,10,4,Human Resources,Male,Divorced,3,Y
+734,41,1,3,Human Resources,Male,Married,1,Y
+760,39,3,3,Human Resources,Female,Married,9,Y
+829,36,13,3,Human Resources,Male,Married,4,Y
+847,34,3,2,Human Resources,Male,Married,0,Y
+910,33,3,2,Human Resources,Male,Divorced,3,Y
+1152,38,1,3,Human Resources,Male,Married,1,Y
+1207,33,2,3,Human Resources,Male,Married,1,Y
+1408,42,10,3,Human Resources,Female,Married,0,Y
+1563,38,10,4,Human Resources,Male,Married,3,Y
+1642,44,1,5,Human Resources,Male,Married,4,Y
+1714,24,22,1,Human Resources,Male,Married,1,Y
+1722,41,4,3,Human Resources,Male,Married,6,Y
+1747,30,8,3,Human Resources,Female,Divorced,6,Y
+1805,38,2,3,Human Resources,Male,Divorced,5,Y
+1842,31,18,5,Human Resources,Male,Married,0,Y
+1844,29,13,3,Human Resources,Male,Divorced,4,Y
+1890,36,2,1,Human Resources,Male,Single,1,Y
+1944,27,22,3,Human Resources,Female,Married,1,Y
+1973,55,26,4,Human Resources,Male,Married,4,Y
+1987,25,2,3,Human Resources,Female,Married,4,Y
+1,41,1,2,Technical Degree,Female,Single,8,Y
+2,49,8,1,Technical Degree,Male,Married,1,Y
+5,33,3,4,Technical Degree,Female,Married,1,Y
+8,32,2,2,Technical Degree,Male,Single,0,Y
+11,30,24,1,Technical Degree,Male,Divorced,1,Y
+12,38,23,3,Technical Degree,Male,Single,0,Y
+15,29,15,2,Technical Degree,Female,Single,0,Y
+16,31,26,1,Technical Degree,Male,Divorced,1,Y
+19,28,24,3,Technical Degree,Male,Single,5,Y
+20,29,21,4,Technical Degree,Female,Divorced,1,Y
+21,32,5,2,Technical Degree,Male,Divorced,0,Y
+23,53,2,4,Technical Degree,Female,Married,2,Y
+24,38,2,3,Technical Degree,Male,Single,5,Y
+27,36,9,4,Technical Degree,Male,Single,7,Y
+28,34,7,4,Technical Degree,Female,Single,0,Y
+30,21,15,2,Technical Degree,Male,Single,1,Y
+33,32,16,1,Technical Degree,Female,Single,1,Y
+51,36,5,4,Technical Degree,Female,Married,9,Y
+52,33,1,3,Technical Degree,Female,Married,2,Y
+54,27,2,4,Technical Degree,Female,Divorced,1,Y
+55,26,25,3,Technical Degree,Male,Single,1,Y
+56,27,8,3,Technical Degree,Male,Single,1,Y
+61,37,19,2,Technical Degree,Male,Married,4,Y
+63,35,8,1,Technical Degree,Male,Married,1,Y
+64,48,1,2,Technical Degree,Male,Single,9,Y
+73,33,1,2,Technical Degree,Female,Single,1,Y
+74,35,18,5,Technical Degree,Male,Married,1,Y
+76,31,7,4,Technical Degree,Male,Divorced,3,Y
+77,37,1,4,Technical Degree,Male,Divorced,1,Y
+79,38,29,5,Technical Degree,Female,Single,1,Y
+81,59,25,3,Technical Degree,Female,Single,7,Y
+85,36,11,3,Technical Degree,Male,Single,1,Y
+86,45,7,3,Technical Degree,Male,Divorced,2,Y
+91,59,1,1,Technical Degree,Female,Single,7,Y
+94,29,2,3,Technical Degree,Male,Married,0,Y
+96,32,1,3,Technical Degree,Male,Married,1,Y
+97,36,6,3,Technical Degree,Female,Married,3,Y
+98,31,8,4,Technical Degree,Female,Single,1,Y
+104,30,1,1,Technical Degree,Male,Married,1,Y
+106,55,1,2,Technical Degree,Male,Married,3,Y
+112,56,7,3,Technical Degree,Male,Single,4,Y
+116,51,9,4,Technical Degree,Male,Married,3,Y
+117,30,2,3,Technical Degree,Male,Married,1,Y
+119,40,1,4,Technical Degree,Male,Married,1,Y
+134,32,1,1,Technical Degree,Male,Single,1,Y
+137,20,6,3,Technical Degree,Female,Single,1,Y
+139,37,2,2,Technical Degree,Male,Divorced,5,Y
+141,50,1,3,Technical Degree,Female,Married,3,Y
+147,34,7,3,Technical Degree,Male,Single,1,Y
+150,24,18,1,Technical Degree,Male,Married,0,Y
+151,34,6,4,Technical Degree,Female,Divorced,6,Y
+152,37,3,3,Technical Degree,Male,Single,2,Y
+155,36,3,2,Technical Degree,Female,Divorced,5,Y
+158,43,26,2,Technical Degree,Male,Married,1,Y
+159,30,23,3,Technical Degree,Male,Divorced,1,Y
+161,56,14,4,Technical Degree,Female,Married,9,Y
+162,51,6,3,Technical Degree,Male,Single,7,Y
+163,31,6,4,Technical Degree,Male,Married,4,Y
+175,31,20,3,Technical Degree,Female,Married,3,Y
+176,41,9,1,Technical Degree,Male,Divorced,3,Y
+177,26,25,1,Technical Degree,Female,Married,1,Y
+179,51,8,4,Technical Degree,Male,Single,2,Y
+182,39,4,4,Technical Degree,Female,Married,4,Y
+183,25,28,3,Technical Degree,Male,Married,2,Y
+194,30,18,3,Technical Degree,Female,Single,1,Y
+199,41,10,3,Technical Degree,Male,Divorced,4,Y
+200,41,9,4,Technical Degree,Male,Married,2,Y
+206,45,9,3,Technical Degree,Male,Divorced,8,Y
+223,57,24,2,Technical Degree,Male,Divorced,3,Y
+226,50,11,3,Technical Degree,Female,Single,3,Y
+227,41,14,3,Technical Degree,Male,Divorced,4,Y
+228,30,5,3,Technical Degree,Female,Married,2,Y
+230,38,1,4,Technical Degree,Female,Single,4,Y
+231,32,6,5,Technical Degree,Male,Single,3,Y
+240,45,4,2,Technical Degree,Female,Divorced,4,Y
+241,56,8,3,Technical Degree,Female,Divorced,4,Y
+242,33,2,3,Technical Degree,Male,Single,0,Y
+243,19,2,3,Technical Degree,Male,Single,1,Y
+245,38,9,2,Technical Degree,Female,Single,1,Y
+256,34,2,1,Technical Degree,Male,Married,1,Y
+259,52,1,4,Technical Degree,Male,Married,0,Y
+261,35,23,2,Technical Degree,Male,Married,3,Y
+267,37,21,3,Technical Degree,Male,Married,1,Y
+271,38,2,4,Technical Degree,Male,Married,9,Y
+275,49,18,4,Technical Degree,Male,Divorced,1,Y
+284,22,5,3,Technical Degree,Male,Divorced,1,Y
+287,40,9,5,Technical Degree,Male,Married,9,Y
+292,30,1,1,Technical Degree,Male,Single,1,Y
+293,27,20,3,Technical Degree,Female,Single,1,Y
+296,51,8,4,Technical Degree,Male,Married,5,Y
+298,41,6,3,Technical Degree,Female,Single,3,Y
+304,36,5,2,Technical Degree,Male,Single,8,Y
+307,38,3,3,Technical Degree,Male,Divorced,0,Y
+309,59,3,3,Technical Degree,Male,Married,3,Y
+316,52,2,3,Technical Degree,Female,Single,7,Y
+328,33,2,2,Technical Degree,Female,Married,7,Y
+329,52,2,4,Technical Degree,Male,Single,1,Y
+330,32,4,2,Technical Degree,Female,Married,2,Y
+331,32,1,3,Technical Degree,Male,Single,0,Y
+334,41,19,2,Technical Degree,Male,Divorced,2,Y
+338,33,5,4,Technical Degree,Female,Married,1,Y
+339,34,2,4,Technical Degree,Male,Married,6,Y
+341,45,7,4,Technical Degree,Male,Married,4,Y
+346,29,15,3,Technical Degree,Male,Single,1,Y
+347,42,17,2,Technical Degree,Female,Single,3,Y
+350,25,1,3,Technical Degree,Female,Married,0,Y
+353,51,1,3,Technical Degree,Male,Married,1,Y
+359,32,7,3,Technical Degree,Male,Married,1,Y
+361,38,2,2,Technical Degree,Male,Married,3,Y
+364,28,2,4,Technical Degree,Male,Single,2,Y
+369,25,5,2,Technical Degree,Male,Divorced,1,Y
+373,36,6,3,Technical Degree,Male,Married,0,Y
+376,47,29,4,Technical Degree,Male,Married,1,Y
+381,35,22,3,Technical Degree,Female,Divorced,7,Y
+384,26,1,3,Technical Degree,Female,Divorced,1,Y
+385,50,4,1,Technical Degree,Male,Divorced,3,Y
+387,42,1,1,Technical Degree,Male,Married,1,Y
+388,29,2,2,Technical Degree,Male,Single,1,Y
+391,37,1,3,Technical Degree,Female,Single,1,Y
+392,44,24,3,Technical Degree,Male,Divorced,3,Y
+393,38,23,4,Technical Degree,Male,Divorced,9,Y
+395,28,8,2,Technical Degree,Female,Single,1,Y
+396,49,10,4,Technical Degree,Female,Single,9,Y
+405,18,3,3,Technical Degree,Male,Single,1,Y
+407,36,18,4,Technical Degree,Male,Married,4,Y
+410,41,2,4,Technical Degree,Male,Single,1,Y
+419,36,24,4,Technical Degree,Female,Married,7,Y
+420,32,7,3,Technical Degree,Male,Married,1,Y
+421,38,25,2,Technical Degree,Female,Married,3,Y
+422,58,1,4,Technical Degree,Male,Divorced,2,Y
+425,45,7,3,Technical Degree,Male,Divorced,1,Y
+426,31,2,4,Technical Degree,Male,Divorced,0,Y
+428,33,5,4,Technical Degree,Female,Married,6,Y
+430,43,10,4,Technical Degree,Female,Single,0,Y
+434,27,5,3,Technical Degree,Female,Single,1,Y
+437,27,2,3,Technical Degree,Male,Single,1,Y
+442,31,7,2,Technical Degree,Female,Married,1,Y
+447,47,5,5,Technical Degree,Male,Married,4,Y
+448,43,10,4,Technical Degree,Female,Divorced,1,Y
+450,54,20,4,Technical Degree,Female,Single,3,Y
+451,43,7,3,Technical Degree,Female,Married,8,Y
+461,38,15,2,Technical Degree,Male,Divorced,0,Y
+465,23,26,1,Technical Degree,Male,Divorced,1,Y
+468,42,23,5,Technical Degree,Female,Single,2,Y
+469,29,2,3,Technical Degree,Male,Married,1,Y
+476,26,1,3,Technical Degree,Male,Married,1,Y
+483,40,10,4,Technical Degree,Female,Married,3,Y
+493,31,9,4,Technical Degree,Male,Single,0,Y
+494,21,12,3,Technical Degree,Female,Single,1,Y
+495,29,23,3,Technical Degree,Male,Single,9,Y
+496,35,9,4,Technical Degree,Male,Single,9,Y
+498,28,9,4,Technical Degree,Male,Single,1,Y
+500,51,14,2,Technical Degree,Female,Married,4,Y
+501,36,2,3,Technical Degree,Female,Married,4,Y
+505,55,2,3,Technical Degree,Female,Single,2,Y
+515,37,14,3,Technical Degree,Female,Divorced,1,Y
+517,42,1,4,Technical Degree,Female,Divorced,3,Y
+518,37,10,4,Technical Degree,Male,Single,2,Y
+520,43,12,3,Technical Degree,Male,Divorced,1,Y
+527,25,4,2,Technical Degree,Female,Single,1,Y
+530,31,1,2,Technical Degree,Male,Married,1,Y
+531,39,1,1,Technical Degree,Male,Divorced,1,Y
+532,56,6,3,Technical Degree,Female,Married,9,Y
+544,45,10,2,Technical Degree,Male,Married,3,Y
+546,52,4,2,Technical Degree,Female,Married,2,Y
+547,42,29,2,Technical Degree,Female,Divorced,2,Y
+548,30,2,3,Technical Degree,Female,Single,2,Y
+549,60,7,3,Technical Degree,Female,Married,5,Y
+556,38,2,2,Technical Degree,Male,Married,1,Y
+558,40,2,4,Technical Degree,Female,Married,0,Y
+560,26,23,3,Technical Degree,Female,Divorced,1,Y
+562,30,3,3,Technical Degree,Male,Married,4,Y
+569,50,29,4,Technical Degree,Male,Married,0,Y
+575,46,2,3,Technical Degree,Male,Married,6,Y
+577,35,22,3,Technical Degree,Male,Single,0,Y
+578,54,8,4,Technical Degree,Female,Single,7,Y
+579,34,2,4,Technical Degree,Male,Divorced,3,Y
+581,31,9,1,Technical Degree,Male,Divorced,1,Y
+586,35,16,3,Technical Degree,Male,Married,4,Y
+587,31,20,3,Technical Degree,Male,Married,3,Y
+597,55,18,5,Technical Degree,Female,Single,3,Y
+599,41,10,2,Technical Degree,Male,Single,7,Y
+601,40,6,3,Technical Degree,Female,Single,7,Y
+602,39,8,1,Technical Degree,Female,Married,1,Y
+604,31,2,1,Technical Degree,Male,Single,4,Y
+608,26,17,4,Technical Degree,Female,Divorced,0,Y
+613,31,7,3,Technical Degree,Male,Divorced,9,Y
+621,34,21,4,Technical Degree,Male,Single,1,Y
+625,41,2,5,Technical Degree,Female,Married,7,Y
+635,37,1,4,Technical Degree,Female,Married,6,Y
+638,49,18,4,Technical Degree,Male,Divorced,1,Y
+647,24,7,3,Technical Degree,Female,Married,1,Y
+648,30,12,4,Technical Degree,Male,Married,1,Y
+649,34,1,2,Technical Degree,Male,Married,1,Y
+657,20,1,3,Technical Degree,Female,Single,1,Y
+659,42,2,4,Technical Degree,Female,Married,1,Y
+662,38,1,1,Technical Degree,Female,Single,3,Y
+664,48,1,4,Technical Degree,Female,Married,7,Y
+665,44,1,4,Technical Degree,Female,Single,4,Y
+679,32,9,4,Technical Degree,Female,Married,1,Y
+683,34,1,5,Technical Degree,Male,Married,1,Y
+684,45,26,4,Technical Degree,Female,Married,2,Y
+686,26,6,3,Technical Degree,Female,Married,1,Y
+691,35,6,4,Technical Degree,Male,Single,1,Y
+692,33,6,3,Technical Degree,Male,Divorced,3,Y
+702,33,3,3,Technical Degree,Male,Single,1,Y
+704,35,3,3,Technical Degree,Male,Married,1,Y
+707,25,8,3,Technical Degree,Male,Married,0,Y
+710,29,1,4,Technical Degree,Male,Divorced,1,Y
+715,37,10,2,Technical Degree,Male,Single,3,Y
+720,24,3,2,Technical Degree,Female,Single,9,Y
+724,38,1,4,Technical Degree,Female,Single,0,Y
+725,27,1,2,Technical Degree,Female,Married,1,Y
+727,32,3,2,Technical Degree,Female,Single,3,Y
+729,40,5,4,Technical Degree,Male,Married,5,Y
+730,53,7,3,Technical Degree,Male,Married,3,Y
+733,27,10,2,Technical Degree,Male,Divorced,1,Y
+741,28,1,2,Technical Degree,Female,Single,7,Y
+742,36,8,3,Technical Degree,Female,Married,9,Y
+743,38,1,3,Technical Degree,Female,Single,4,Y
+749,29,10,3,Technical Degree,Male,Single,1,Y
+754,43,15,3,Technical Degree,Male,Married,3,Y
+769,53,6,3,Technical Degree,Male,Single,2,Y
+771,35,2,4,Technical Degree,Female,Divorced,2,Y
+772,32,24,4,Technical Degree,Male,Married,1,Y
+775,34,8,5,Technical Degree,Female,Divorced,3,Y
+785,47,27,2,Technical Degree,Female,Single,4,Y
+789,36,8,4,Technical Degree,Male,Single,1,Y
+792,26,1,2,Technical Degree,Female,Divorced,3,Y
+797,34,1,4,Technical Degree,Female,Single,2,Y
+802,37,10,1,Technical Degree,Female,Divorced,0,Y
+803,38,2,4,Technical Degree,Female,Single,6,Y
+805,35,8,4,Technical Degree,Female,Married,1,Y
+806,30,1,3,Technical Degree,Male,Married,3,Y
+808,34,8,2,Technical Degree,Female,Married,5,Y
+809,42,8,3,Technical Degree,Male,Divorced,1,Y
+811,23,6,3,Technical Degree,Male,Married,1,Y
+812,24,9,3,Technical Degree,Male,Divorced,1,Y
+813,52,11,4,Technical Degree,Female,Married,8,Y
+816,29,1,2,Technical Degree,Female,Married,1,Y
+824,29,23,2,Technical Degree,Male,Married,1,Y
+825,58,2,4,Technical Degree,Male,Single,7,Y
+826,35,1,4,Technical Degree,Female,Single,3,Y
+827,42,1,2,Technical Degree,Female,Married,9,Y
+830,32,4,3,Technical Degree,Female,Married,1,Y
+834,45,2,3,Technical Degree,Female,Single,1,Y
+836,42,29,3,Technical Degree,Male,Married,1,Y
+837,38,12,3,Technical Degree,Male,Divorced,2,Y
+838,34,16,4,Technical Degree,Female,Single,1,Y
+843,43,14,2,Technical Degree,Male,Married,6,Y
+857,36,1,2,Technical Degree,Male,Married,1,Y
+859,32,13,4,Technical Degree,Male,Divorced,2,Y
+861,30,5,4,Technical Degree,Male,Divorced,9,Y
+872,22,1,2,Technical Degree,Male,Married,6,Y
+874,44,8,4,Technical Degree,Male,Married,2,Y
+878,36,8,3,Technical Degree,Male,Married,0,Y
+880,35,9,3,Technical Degree,Female,Married,1,Y
+881,35,25,4,Technical Degree,Female,Divorced,1,Y
+882,32,1,3,Technical Degree,Male,Divorced,0,Y
+888,24,4,1,Technical Degree,Male,Married,0,Y
+889,32,5,2,Technical Degree,Male,Married,1,Y
+894,42,3,3,Technical Degree,Female,Married,2,Y
+895,31,11,4,Technical Degree,Male,Married,3,Y
+901,53,23,4,Technical Degree,Female,Single,6,Y
+902,43,1,3,Technical Degree,Female,Married,4,Y
+905,50,2,4,Technical Degree,Male,Divorced,1,Y
+909,39,2,3,Technical Degree,Female,Married,8,Y
+911,32,25,4,Technical Degree,Male,Single,1,Y
+913,44,9,2,Technical Degree,Male,Married,1,Y
+918,58,2,1,Technical Degree,Male,Divorced,9,Y
+920,43,8,3,Technical Degree,Female,Divorced,4,Y
+924,36,14,1,Technical Degree,Male,Married,0,Y
+925,47,2,4,Technical Degree,Female,Single,1,Y
+926,22,3,1,Technical Degree,Female,Married,0,Y
+927,41,2,4,Technical Degree,Female,Divorced,4,Y
+933,27,4,3,Technical Degree,Female,Single,1,Y
+934,34,10,3,Technical Degree,Male,Divorced,1,Y
+941,31,7,4,Technical Degree,Male,Married,3,Y
+942,35,21,1,Technical Degree,Female,Married,1,Y
+951,32,1,3,Technical Degree,Female,Married,6,Y
+967,36,3,1,Technical Degree,Male,Married,1,Y
+969,33,1,3,Technical Degree,Female,Single,0,Y
+970,37,1,4,Technical Degree,Male,Married,5,Y
+972,45,4,2,Technical Degree,Male,Married,1,Y
+976,52,1,2,Technical Degree,Male,Married,2,Y
+984,35,3,4,Technical Degree,Male,Divorced,6,Y
+985,39,2,5,Technical Degree,Male,Single,0,Y
+986,40,24,3,Technical Degree,Female,Single,4,Y
+992,33,17,3,Technical Degree,Male,Single,1,Y
+994,29,10,3,Technical Degree,Female,Single,6,Y
+995,33,13,1,Technical Degree,Female,Single,3,Y
+1002,45,23,2,Technical Degree,Male,Married,1,Y
+1003,47,4,2,Technical Degree,Female,Single,1,Y
+1004,30,22,3,Technical Degree,Female,Married,4,Y
+1005,50,24,3,Technical Degree,Male,Married,3,Y
+1011,31,1,1,Technical Degree,Female,Married,1,Y
+1012,18,5,2,Technical Degree,Male,Single,1,Y
+1015,30,8,2,Technical Degree,Female,Married,0,Y
+1019,22,8,1,Technical Degree,Male,Married,1,Y
+1022,48,6,3,Technical Degree,Male,Single,2,Y
+1024,48,4,4,Technical Degree,Male,Single,7,Y
+1026,39,1,1,Technical Degree,Female,Married,1,Y
+1027,27,2,4,Technical Degree,Female,Married,0,Y
+1030,50,9,3,Technical Degree,Male,Married,4,Y
+1032,59,2,3,Technical Degree,Female,Single,3,Y
+1035,41,7,1,Technical Degree,Female,Divorced,1,Y
+1036,38,3,4,Technical Degree,Male,Single,8,Y
+1040,50,1,3,Technical Degree,Female,Married,0,Y
+1042,36,16,4,Technical Degree,Female,Single,1,Y
+1044,33,8,1,Technical Degree,Female,Single,0,Y
+1045,45,11,2,Technical Degree,Female,Married,3,Y
+1053,26,2,3,Technical Degree,Male,Married,6,Y
+1055,34,10,4,Technical Degree,Female,Married,1,Y
+1070,54,2,4,Technical Degree,Female,Married,6,Y
+1079,21,10,3,Technical Degree,Female,Single,1,Y
+1080,46,8,4,Technical Degree,Female,Divorced,8,Y
+1081,51,4,4,Technical Degree,Male,Married,9,Y
+1088,38,17,1,Technical Degree,Female,Married,0,Y
+1094,27,8,5,Technical Degree,Male,Married,1,Y
+1096,55,2,1,Technical Degree,Male,Married,3,Y
+1099,33,5,3,Technical Degree,Male,Divorced,4,Y
+1102,28,15,2,Technical Degree,Male,Divorced,1,Y
+1103,34,3,1,Technical Degree,Male,Single,0,Y
+1105,37,10,4,Technical Degree,Female,Divorced,2,Y
+1114,33,7,3,Technical Degree,Female,Married,0,Y
+1115,34,3,4,Technical Degree,Male,Married,3,Y
+1117,45,9,4,Technical Degree,Female,Married,1,Y
+1118,52,7,4,Technical Degree,Male,Single,7,Y
+1120,29,28,4,Technical Degree,Female,Divorced,4,Y
+1126,43,27,3,Technical Degree,Female,Married,8,Y
+1127,39,2,3,Technical Degree,Male,Divorced,7,Y
+1132,39,9,3,Technical Degree,Male,Single,9,Y
+1133,36,18,4,Technical Degree,Male,Single,2,Y
+1135,31,20,3,Technical Degree,Male,Married,0,Y
+1136,28,2,1,Technical Degree,Male,Married,0,Y
+1140,34,2,2,Technical Degree,Male,Single,2,Y
+1143,29,10,3,Technical Degree,Female,Divorced,0,Y
+1154,28,6,3,Technical Degree,Male,Divorced,1,Y
+1158,41,12,4,Technical Degree,Male,Married,3,Y
+1162,27,6,3,Technical Degree,Male,Married,1,Y
+1163,34,9,1,Technical Degree,Female,Married,1,Y
+1165,29,23,1,Technical Degree,Female,Married,1,Y
+1167,42,12,3,Technical Degree,Male,Single,0,Y
+1175,28,12,1,Technical Degree,Female,Married,1,Y
+1182,35,2,3,Technical Degree,Male,Divorced,2,Y
+1190,32,2,1,Technical Degree,Female,Divorced,1,Y
+1193,19,9,2,Technical Degree,Male,Single,1,Y
+1196,37,1,3,Technical Degree,Female,Married,1,Y
+1198,20,3,3,Technical Degree,Male,Single,1,Y
+1200,44,10,4,Technical Degree,Male,Single,1,Y
+1202,29,15,1,Technical Degree,Female,Married,0,Y
+1203,22,3,4,Technical Degree,Male,Married,0,Y
+1206,44,17,3,Technical Degree,Male,Single,2,Y
+1210,41,5,2,Technical Degree,Male,Divorced,6,Y
+1211,30,29,4,Technical Degree,Male,Divorced,8,Y
+1217,46,15,2,Technical Degree,Male,Married,5,Y
+1218,35,17,4,Technical Degree,Male,Married,3,Y
+1219,24,17,2,Technical Degree,Female,Married,1,Y
+1221,36,6,4,Technical Degree,Male,Divorced,1,Y
+1224,30,7,4,Technical Degree,Male,Divorced,1,Y
+1235,32,2,2,Technical Degree,Female,Single,4,Y
+1240,25,10,4,Technical Degree,Male,Single,0,Y
+1244,27,14,3,Technical Degree,Male,Married,1,Y
+1245,54,1,4,Technical Degree,Female,Divorced,7,Y
+1246,44,2,1,Technical Degree,Female,Married,1,Y
+1249,29,1,3,Technical Degree,Female,Divorced,1,Y
+1250,54,3,3,Technical Degree,Male,Married,3,Y
+1254,59,3,3,Technical Degree,Female,Single,5,Y
+1255,43,3,3,Technical Degree,Male,Married,3,Y
+1259,27,4,2,Technical Degree,Male,Divorced,1,Y
+1260,29,7,3,Technical Degree,Male,Divorced,1,Y
+1263,48,1,3,Technical Degree,Male,Single,6,Y
+1264,29,1,3,Technical Degree,Female,Divorced,3,Y
+1269,19,25,3,Technical Degree,Female,Single,1,Y
+1270,23,1,2,Technical Degree,Male,Married,1,Y
+1273,25,24,1,Technical Degree,Male,Single,1,Y
+1275,26,4,2,Technical Degree,Male,Single,1,Y
+1279,21,10,2,Technical Degree,Female,Single,1,Y
+1282,51,9,3,Technical Degree,Male,Divorced,4,Y
+1288,44,4,2,Technical Degree,Male,Divorced,1,Y
+1289,34,11,3,Technical Degree,Male,Married,4,Y
+1291,35,6,1,Technical Degree,Male,Married,0,Y
+1294,36,2,4,Technical Degree,Female,Single,9,Y
+1296,28,2,3,Technical Degree,Male,Married,1,Y
+1308,58,23,4,Technical Degree,Male,Divorced,1,Y
+1309,32,7,2,Technical Degree,Male,Married,1,Y
+1314,46,1,2,Technical Degree,Female,Single,6,Y
+1315,28,1,3,Technical Degree,Female,Married,0,Y
+1317,50,28,3,Technical Degree,Female,Married,4,Y
+1319,52,5,3,Technical Degree,Male,Single,9,Y
+1322,39,18,2,Technical Degree,Male,Single,0,Y
+1324,31,2,4,Technical Degree,Female,Divorced,1,Y
+1331,31,1,3,Technical Degree,Female,Single,1,Y
+1333,44,3,3,Technical Degree,Male,Married,4,Y
+1334,42,2,1,Technical Degree,Male,Married,0,Y
+1338,56,8,4,Technical Degree,Male,Single,6,Y
+1340,40,16,2,Technical Degree,Male,Divorced,9,Y
+1344,34,9,3,Technical Degree,Male,Divorced,0,Y
+1346,40,2,3,Technical Degree,Male,Single,1,Y
+1350,35,4,4,Technical Degree,Male,Single,1,Y
+1352,51,5,3,Technical Degree,Male,Divorced,1,Y
+1355,38,2,2,Technical Degree,Female,Divorced,3,Y
+1361,40,1,4,Technical Degree,Male,Married,3,Y
+1363,48,4,3,Technical Degree,Male,Single,1,Y
+1368,18,1,3,Technical Degree,Female,Single,1,Y
+1371,27,2,1,Technical Degree,Male,Single,3,Y
+1373,56,23,3,Technical Degree,Male,Married,4,Y
+1379,31,2,3,Technical Degree,Female,Single,7,Y
+1382,38,7,3,Technical Degree,Male,Divorced,1,Y
+1387,28,26,3,Technical Degree,Male,Married,1,Y
+1390,39,21,4,Technical Degree,Male,Married,3,Y
+1392,41,22,3,Technical Degree,Female,Divorced,3,Y
+1394,37,4,1,Technical Degree,Male,Married,7,Y
+1395,33,5,1,Technical Degree,Male,Married,6,Y
+1397,39,25,2,Technical Degree,Male,Married,3,Y
+1399,25,18,1,Technical Degree,Male,Married,2,Y
+1405,27,17,4,Technical Degree,Female,Single,1,Y
+1412,35,18,2,Technical Degree,Male,Single,2,Y
+1420,49,28,2,Technical Degree,Male,Single,3,Y
+1427,31,1,4,Technical Degree,Female,Single,1,Y
+1430,31,8,5,Technical Degree,Female,Single,3,Y
+1433,31,8,3,Technical Degree,Female,Single,1,Y
+1434,27,11,1,Technical Degree,Male,Married,0,Y
+1435,36,4,4,Technical Degree,Male,Single,1,Y
+1439,25,9,2,Technical Degree,Male,Married,3,Y
+1441,56,1,2,Technical Degree,Female,Married,2,Y
+1447,34,1,3,Technical Degree,Female,Married,5,Y
+1453,31,8,2,Technical Degree,Male,Divorced,1,Y
+1458,39,2,3,Technical Degree,Female,Single,2,Y
+1459,31,1,5,Technical Degree,Female,Single,1,Y
+1464,31,2,3,Technical Degree,Male,Married,6,Y
+1471,44,5,3,Technical Degree,Male,Single,3,Y
+1475,44,20,3,Technical Degree,Male,Single,1,Y
+1479,30,16,1,Technical Degree,Male,Married,8,Y
+1483,57,1,2,Technical Degree,Male,Married,0,Y
+1484,49,7,4,Technical Degree,Male,Divorced,3,Y
+1492,35,7,1,Technical Degree,Male,Married,1,Y
+1495,24,13,2,Technical Degree,Female,Married,1,Y
+1497,29,19,3,Technical Degree,Male,Divorced,1,Y
+1499,30,1,3,Technical Degree,Male,Divorced,0,Y
+1501,55,4,4,Technical Degree,Male,Married,0,Y
+1506,28,1,3,Technical Degree,Male,Divorced,1,Y
+1507,28,7,3,Technical Degree,Male,Single,0,Y
+1513,29,2,1,Technical Degree,Female,Married,0,Y
+1514,28,29,1,Technical Degree,Male,Married,1,Y
+1515,33,8,5,Technical Degree,Male,Single,2,Y
+1523,44,28,3,Technical Degree,Male,Married,3,Y
+1525,39,6,3,Technical Degree,Female,Single,4,Y
+1527,46,3,3,Technical Degree,Female,Married,8,Y
+1529,35,16,3,Technical Degree,Female,Single,1,Y
+1533,23,20,1,Technical Degree,Male,Single,0,Y
+1534,40,9,4,Technical Degree,Male,Single,3,Y
+1537,31,3,3,Technical Degree,Female,Single,1,Y
+1545,33,25,3,Technical Degree,Male,Single,1,Y
+1547,42,2,3,Technical Degree,Male,Married,2,Y
+1549,33,28,4,Technical Degree,Male,Married,1,Y
+1552,40,8,2,Technical Degree,Male,Divorced,3,Y
+1554,35,28,4,Technical Degree,Female,Married,0,Y
+1555,32,5,2,Technical Degree,Female,Married,3,Y
+1556,36,2,4,Technical Degree,Male,Single,3,Y
+1557,48,16,4,Technical Degree,Female,Divorced,8,Y
+1558,29,9,3,Technical Degree,Male,Married,6,Y
+1560,33,8,4,Technical Degree,Male,Married,2,Y
+1562,30,1,3,Technical Degree,Male,Married,1,Y
+1569,35,2,3,Technical Degree,Female,Divorced,1,Y
+1580,34,1,4,Technical Degree,Male,Married,9,Y
+1581,26,3,3,Technical Degree,Female,Married,1,Y
+1582,38,14,3,Technical Degree,Male,Married,0,Y
+1583,38,16,3,Technical Degree,Female,Single,2,Y
+1585,36,1,4,Technical Degree,Female,Single,6,Y
+1590,29,2,1,Technical Degree,Male,Divorced,1,Y
+1594,36,6,4,Technical Degree,Male,Married,3,Y
+1596,35,28,3,Technical Degree,Male,Married,1,Y
+1598,40,14,2,Technical Degree,Female,Married,1,Y
+1601,35,7,2,Technical Degree,Male,Married,1,Y
+1602,46,1,4,Technical Degree,Male,Single,1,Y
+1614,36,12,4,Technical Degree,Female,Married,9,Y
+1615,34,10,4,Technical Degree,Male,Divorced,1,Y
+1617,49,25,4,Technical Degree,Female,Married,1,Y
+1621,35,18,5,Technical Degree,Male,Married,1,Y
+1625,47,26,4,Technical Degree,Female,Married,3,Y
+1628,40,15,3,Technical Degree,Female,Married,1,Y
+1630,35,8,4,Technical Degree,Female,Married,1,Y
+1631,37,19,3,Technical Degree,Male,Married,3,Y
+1641,40,16,3,Technical Degree,Female,Single,6,Y
+1649,40,7,3,Technical Degree,Male,Single,3,Y
+1651,36,5,4,Technical Degree,Female,Married,4,Y
+1653,25,2,1,Technical Degree,Male,Divorced,1,Y
+1656,50,17,5,Technical Degree,Female,Divorced,5,Y
+1658,34,3,3,Technical Degree,Female,Divorced,1,Y
+1659,36,7,3,Technical Degree,Male,Single,2,Y
+1661,49,6,1,Technical Degree,Female,Married,2,Y
+1664,36,3,2,Technical Degree,Male,Divorced,6,Y
+1666,43,15,2,Technical Degree,Male,Married,1,Y
+1668,38,1,3,Technical Degree,Male,Married,7,Y
+1673,31,5,4,Technical Degree,Female,Married,1,Y
+1676,47,2,4,Technical Degree,Female,Divorced,6,Y
+1677,49,1,3,Technical Degree,Male,Single,4,Y
+1678,41,23,2,Technical Degree,Male,Single,3,Y
+1680,20,9,1,Technical Degree,Male,Single,1,Y
+1681,33,16,3,Technical Degree,Female,Divorced,1,Y
+1682,36,26,4,Technical Degree,Male,Married,6,Y
+1683,44,1,3,Technical Degree,Female,Divorced,4,Y
+1692,32,2,4,Technical Degree,Male,Single,1,Y
+1701,34,19,3,Technical Degree,Female,Married,1,Y
+1702,23,7,3,Technical Degree,Male,Divorced,1,Y
+1703,44,2,3,Technical Degree,Female,Married,1,Y
+1710,36,2,4,Technical Degree,Female,Single,3,Y
+1712,45,1,1,Technical Degree,Male,Married,3,Y
+1716,47,9,3,Technical Degree,Male,Married,7,Y
+1720,32,10,3,Technical Degree,Male,Married,6,Y
+1721,31,2,4,Technical Degree,Male,Married,1,Y
+1724,40,8,2,Technical Degree,Female,Married,2,Y
+1727,46,13,4,Technical Degree,Male,Single,6,Y
+1728,35,27,4,Technical Degree,Male,Married,2,Y
+1729,30,16,1,Technical Degree,Male,Married,1,Y
+1732,46,2,3,Technical Degree,Male,Divorced,4,Y
+1734,32,1,2,Technical Degree,Male,Single,6,Y
+1737,39,1,3,Technical Degree,Male,Married,1,Y
+1739,32,19,3,Technical Degree,Male,Married,3,Y
+1744,45,4,3,Technical Degree,Female,Married,4,Y
+1753,29,1,3,Technical Degree,Male,Single,8,Y
+1758,33,16,3,Technical Degree,Female,Single,2,Y
+1763,30,16,3,Technical Degree,Male,Married,3,Y
+1772,41,9,4,Technical Degree,Male,Divorced,1,Y
+1774,34,10,3,Technical Degree,Male,Divorced,1,Y
+1778,43,2,3,Technical Degree,Male,Single,0,Y
+1779,34,3,2,Technical Degree,Female,Single,5,Y
+1790,36,10,3,Technical Degree,Male,Married,7,Y
+1797,35,27,3,Technical Degree,Male,Single,1,Y
+1798,33,8,4,Technical Degree,Male,Married,6,Y
+1799,28,1,3,Technical Degree,Male,Married,1,Y
+1801,46,26,2,Technical Degree,Male,Single,8,Y
+1802,40,2,2,Technical Degree,Female,Married,4,Y
+1807,34,9,4,Technical Degree,Male,Married,4,Y
+1812,39,20,3,Technical Degree,Male,Divorced,2,Y
+1813,43,9,3,Technical Degree,Male,Single,4,Y
+1814,41,5,3,Technical Degree,Male,Single,3,Y
+1822,40,1,3,Technical Degree,Female,Divorced,4,Y
+1827,47,4,3,Technical Degree,Female,Divorced,8,Y
+1829,40,12,3,Technical Degree,Female,Divorced,2,Y
+1837,58,15,4,Technical Degree,Male,Married,2,Y
+1845,45,2,4,Technical Degree,Female,Married,4,Y
+1849,43,2,4,Technical Degree,Male,Married,1,Y
+1850,27,5,2,Technical Degree,Female,Single,0,Y
+1856,47,9,4,Technical Degree,Female,Single,4,Y
+1857,46,2,2,Technical Degree,Male,Divorced,3,Y
+1858,28,1,2,Technical Degree,Male,Divorced,1,Y
+1859,29,29,1,Technical Degree,Male,Divorced,8,Y
+1860,42,8,3,Technical Degree,Male,Single,4,Y
+1867,48,10,3,Technical Degree,Male,Married,4,Y
+1868,29,24,2,Technical Degree,Male,Single,1,Y
+1869,46,10,3,Technical Degree,Female,Married,5,Y
+1870,27,15,3,Technical Degree,Female,Married,0,Y
+1878,22,7,1,Technical Degree,Male,Single,1,Y
+1881,31,20,3,Technical Degree,Male,Divorced,1,Y
+1882,34,4,3,Technical Degree,Male,Married,2,Y
+1883,29,7,3,Technical Degree,Male,Single,3,Y
+1888,45,25,2,Technical Degree,Female,Married,0,Y
+1892,40,1,4,Technical Degree,Male,Divorced,2,Y
+1893,26,1,2,Technical Degree,Female,Married,1,Y
+1903,44,1,4,Technical Degree,Male,Married,2,Y
+1907,56,24,2,Technical Degree,Male,Single,1,Y
+1927,28,1,2,Technical Degree,Male,Married,1,Y
+1929,39,21,4,Technical Degree,Female,Married,6,Y
+1938,58,21,3,Technical Degree,Female,Married,4,Y
+1939,32,5,2,Technical Degree,Female,Single,3,Y
+1940,38,9,2,Technical Degree,Male,Divorced,2,Y
+1941,49,2,1,Technical Degree,Male,Married,3,Y
+1949,36,9,4,Technical Degree,Male,Married,1,Y
+1954,29,1,3,Technical Degree,Male,Married,0,Y
+1956,31,1,3,Technical Degree,Male,Married,1,Y
+1961,38,1,3,Technical Degree,Male,Single,4,Y
+1962,35,7,4,Technical Degree,Female,Married,1,Y
+1966,32,5,4,Technical Degree,Male,Single,8,Y
+1968,53,24,4,Technical Degree,Male,Single,6,Y
+1969,54,9,2,Technical Degree,Female,Married,3,Y
+1970,33,7,2,Technical Degree,Male,Divorced,1,Y
+1971,43,11,3,Technical Degree,Male,Married,1,Y
+1976,42,23,2,Technical Degree,Male,Single,1,Y
+1981,24,1,2,Technical Degree,Male,Single,1,Y
+1995,38,1,4,Technical Degree,Male,Married,0,Y
+1996,31,2,2,Technical Degree,Male,Married,0,Y
+1997,38,6,4,Technical Degree,Male,Married,2,Y
+1998,42,18,4,Technical Degree,Male,Divorced,6,Y
+1999,41,1,3,Technical Degree,Male,Married,3,Y
+2007,22,1,2,Technical Degree,Male,Single,0,Y
+2010,32,29,4,Technical Degree,Female,Single,1,Y
+2012,40,1,4,Technical Degree,Male,Married,8,Y
+2014,39,24,1,Technical Degree,Male,Single,7,Y
+2017,37,10,3,Technical Degree,Female,Married,1,Y
+2019,52,29,4,Technical Degree,Male,Divorced,2,Y
+2022,39,9,3,Technical Degree,Male,Single,2,Y
+2025,36,4,2,Technical Degree,Female,Divorced,7,Y
+2026,56,1,4,Technical Degree,Male,Divorced,1,Y
+2031,42,2,3,Technical Degree,Male,Married,5,Y
+2034,41,28,4,Technical Degree,Female,Married,0,Y
+2037,41,3,3,Technical Degree,Male,Divorced,2,Y
+2040,35,26,4,Technical Degree,Female,Single,1,Y
+2041,38,10,2,Technical Degree,Female,Married,1,Y
+2044,50,1,4,Technical Degree,Male,Divorced,7,Y
+2046,45,20,3,Technical Degree,Female,Single,8,Y
+2048,40,2,4,Technical Degree,Male,Single,2,Y
+2049,35,18,4,Technical Degree,Male,Married,1,Y
+2052,35,1,4,Technical Degree,Female,Married,1,Y
+2064,27,4,3,Technical Degree,Male,Married,1,Y
+35,42,8,4,Marketing,Male,Married,0,Y
+38,46,2,4,Marketing,Female,Single,3,Y
+47,50,3,2,Marketing,Male,Married,1,Y
+49,35,2,3,Marketing,Female,Married,1,Y
+60,34,23,4,Marketing,Male,Single,0,Y
+62,46,5,4,Marketing,Male,Single,4,Y
+68,44,1,5,Marketing,Female,Divorced,5,Y
+72,26,23,3,Marketing,Female,Married,7,Y
+100,35,1,4,Marketing,Male,Single,0,Y
+120,51,21,4,Marketing,Male,Single,0,Y
+142,25,5,3,Marketing,Male,Single,1,Y
+160,33,22,2,Marketing,Male,Married,0,Y
+167,19,22,1,Marketing,Male,Single,1,Y
+174,50,12,3,Marketing,Female,Single,4,Y
+204,35,1,5,Marketing,Male,Married,1,Y
+205,53,6,2,Marketing,Male,Married,2,Y
+207,32,8,3,Marketing,Female,Single,1,Y
+215,40,4,4,Marketing,Male,Married,7,Y
+216,34,2,4,Marketing,Female,Married,6,Y
+244,46,1,2,Marketing,Female,Divorced,1,Y
+248,41,20,2,Marketing,Female,Single,1,Y
+283,29,27,3,Marketing,Female,Married,1,Y
+299,30,26,4,Marketing,Female,Single,5,Y
+303,54,3,3,Marketing,Female,Married,2,Y
+311,37,4,4,Marketing,Male,Divorced,4,Y
+314,35,1,3,Marketing,Female,Single,1,Y
+327,43,16,3,Marketing,Female,Married,5,Y
+333,32,26,4,Marketing,Male,Married,0,Y
+349,29,20,2,Marketing,Male,Divorced,2,Y
+399,31,5,3,Marketing,Female,Divorced,1,Y
+401,26,4,4,Marketing,Male,Single,1,Y
+404,42,26,3,Marketing,Female,Married,5,Y
+406,35,16,3,Marketing,Male,Married,0,Y
+438,31,7,3,Marketing,Male,Divorced,4,Y
+446,33,10,3,Marketing,Male,Single,3,Y
+449,27,1,1,Marketing,Male,Married,0,Y
+456,30,5,3,Marketing,Female,Divorced,1,Y
+458,27,8,4,Marketing,Female,Married,1,Y
+463,29,10,1,Marketing,Female,Divorced,1,Y
+485,33,5,3,Marketing,Female,Single,1,Y
+488,41,4,3,Marketing,Male,Single,1,Y
+492,40,22,2,Marketing,Male,Married,2,Y
+502,34,19,3,Marketing,Male,Single,8,Y
+507,24,10,4,Marketing,Female,Divorced,1,Y
+516,40,2,2,Marketing,Female,Divorced,7,Y
+523,34,4,4,Marketing,Female,Married,9,Y
+534,41,1,3,Marketing,Male,Married,1,Y
+555,34,6,2,Marketing,Female,Divorced,0,Y
+568,57,29,3,Marketing,Male,Divorced,3,Y
+573,60,28,3,Marketing,Female,Married,4,Y
+580,46,10,3,Marketing,Female,Married,2,Y
+585,30,7,1,Marketing,Male,Single,0,Y
+595,48,2,5,Marketing,Female,Married,2,Y
+600,35,1,3,Marketing,Male,Married,9,Y
+614,18,5,3,Marketing,Male,Single,1,Y
+641,26,28,2,Marketing,Male,Married,1,Y
+656,37,2,3,Marketing,Male,Married,4,Y
+667,27,2,1,Marketing,Male,Divorced,0,Y
+677,33,8,4,Marketing,Male,Divorced,0,Y
+709,38,7,4,Marketing,Female,Single,0,Y
+712,48,2,1,Marketing,Male,Married,3,Y
+722,32,10,3,Marketing,Male,Single,1,Y
+728,47,14,4,Marketing,Male,Single,2,Y
+732,60,16,4,Marketing,Male,Single,8,Y
+738,50,8,4,Marketing,Male,Married,7,Y
+747,30,27,5,Marketing,Male,Divorced,7,Y
+766,29,10,3,Marketing,Male,Divorced,1,Y
+776,52,3,4,Marketing,Male,Married,1,Y
+800,27,8,1,Marketing,Male,Married,0,Y
+819,33,16,3,Marketing,Female,Single,5,Y
+840,49,11,3,Marketing,Female,Married,1,Y
+846,28,2,4,Marketing,Female,Married,1,Y
+851,51,26,4,Marketing,Female,Married,2,Y
+862,53,7,2,Marketing,Female,Married,7,Y
+864,45,9,3,Marketing,Male,Divorced,4,Y
+868,37,16,4,Marketing,Male,Divorced,4,Y
+885,25,4,1,Marketing,Male,Married,1,Y
+893,38,9,3,Marketing,Male,Married,0,Y
+897,53,8,3,Marketing,Male,Married,5,Y
+903,47,2,2,Marketing,Female,Married,0,Y
+947,31,20,2,Marketing,Female,Married,1,Y
+952,25,19,2,Marketing,Male,Married,1,Y
+954,40,10,4,Marketing,Male,Divorced,2,Y
+1029,42,5,2,Marketing,Male,Married,6,Y
+1038,52,2,1,Marketing,Female,Married,1,Y
+1047,34,1,4,Marketing,Male,Divorced,0,Y
+1050,53,2,3,Marketing,Female,Married,2,Y
+1066,40,26,3,Marketing,Male,Married,1,Y
+1077,20,9,3,Marketing,Female,Single,1,Y
+1119,38,10,4,Marketing,Male,Divorced,0,Y
+1124,46,3,1,Marketing,Male,Married,3,Y
+1125,38,2,2,Marketing,Male,Single,7,Y
+1137,35,11,2,Marketing,Male,Divorced,1,Y
+1157,33,9,4,Marketing,Female,Single,0,Y
+1171,42,4,4,Marketing,Male,Single,7,Y
+1179,30,10,3,Marketing,Male,Married,1,Y
+1188,43,9,3,Marketing,Female,Single,8,Y
+1204,46,2,3,Marketing,Female,Married,8,Y
+1226,20,21,3,Marketing,Male,Single,1,Y
+1233,60,7,4,Marketing,Male,Divorced,0,Y
+1243,35,8,2,Marketing,Female,Married,4,Y
+1267,44,5,3,Marketing,Male,Married,7,Y
+1268,33,10,5,Marketing,Male,Divorced,0,Y
+1277,45,2,3,Marketing,Female,Single,2,Y
+1280,46,4,2,Marketing,Female,Married,2,Y
+1281,34,2,3,Marketing,Female,Single,0,Y
+1293,43,4,4,Marketing,Female,Single,3,Y
+1318,40,25,4,Marketing,Male,Single,2,Y
+1349,41,1,3,Marketing,Female,Divorced,0,Y
+1362,36,7,3,Marketing,Female,Married,2,Y
+1372,55,13,4,Marketing,Male,Single,6,Y
+1380,35,18,4,Marketing,Female,Married,0,Y
+1391,51,2,3,Marketing,Male,Married,2,Y
+1396,32,2,1,Marketing,Male,Married,0,Y
+1403,27,10,3,Marketing,Female,Married,1,Y
+1425,36,3,4,Marketing,Female,Single,3,Y
+1428,30,7,4,Marketing,Female,Divorced,7,Y
+1436,36,16,4,Marketing,Female,Married,4,Y
+1446,32,7,5,Marketing,Male,Married,4,Y
+1457,46,9,3,Marketing,Male,Divorced,4,Y
+1466,48,7,3,Marketing,Male,Divorced,4,Y
+1481,44,1,5,Marketing,Female,Married,7,Y
+1578,55,26,5,Marketing,Male,Married,1,Y
+1591,50,9,3,Marketing,Male,Married,4,Y
+1612,45,26,3,Marketing,Male,Married,1,Y
+1708,41,6,3,Marketing,Male,Single,1,Y
+1731,47,2,4,Marketing,Male,Married,7,Y
+1733,36,13,5,Marketing,Male,Divorced,5,Y
+1752,29,9,3,Marketing,Female,Single,1,Y
+1754,30,15,2,Marketing,Male,Divorced,2,Y
+1756,33,2,3,Marketing,Female,Single,8,Y
+1757,49,11,4,Marketing,Female,Single,3,Y
+1761,31,16,4,Marketing,Male,Married,2,Y
+1780,21,7,1,Marketing,Male,Single,1,Y
+1784,31,29,4,Marketing,Female,Married,1,Y
+1787,37,9,2,Marketing,Male,Married,1,Y
+1815,41,4,1,Marketing,Female,Divorced,0,Y
+1833,31,7,4,Marketing,Female,Married,2,Y
+1835,38,2,4,Marketing,Female,Married,2,Y
+1853,32,10,4,Marketing,Male,Single,8,Y
+1862,32,2,4,Marketing,Male,Single,7,Y
+1908,36,17,2,Marketing,Male,Married,2,Y
+1909,41,8,3,Marketing,Female,Married,5,Y
+1924,33,10,4,Marketing,Male,Single,1,Y
+1933,28,13,2,Marketing,Female,Single,3,Y
+1935,56,11,5,Marketing,Female,Married,4,Y
+1943,42,12,4,Marketing,Male,Divorced,3,Y
+1950,34,1,3,Marketing,Male,Single,1,Y
+1965,27,9,3,Marketing,Male,Single,1,Y
+1967,31,26,4,Marketing,Male,Married,1,Y
+1975,39,15,4,Marketing,Male,Single,0,Y
+1986,40,2,2,Marketing,Female,Married,3,Y
+2016,32,1,4,Marketing,Female,Married,1,Y
+2023,23,9,3,Marketing,Male,Married,1,Y
+2035,34,28,3,Marketing,Female,Married,1,Y
+2036,36,15,4,Marketing,Male,Divorced,1,Y
+2045,36,11,4,Marketing,Female,Married,4,Y
+2055,50,28,3,Marketing,Male,Divorced,4,Y
+2056,39,24,1,Marketing,Female,Married,0,Y
+7,27,2,1,Computer Science,Male,Married,9,Y
+10,59,3,3,Computer Science,Female,Married,4,Y
+13,36,27,3,Computer Science,Male,Married,6,Y
+14,35,16,3,Computer Science,Male,Married,0,Y
+18,34,19,2,Computer Science,Male,Divorced,0,Y
+22,22,16,2,Computer Science,Male,Divorced,1,Y
+31,34,6,1,Computer Science,Male,Single,2,Y
+36,44,7,4,Computer Science,Female,Married,3,Y
+39,33,2,3,Computer Science,Male,Single,4,Y
+41,30,9,2,Computer Science,Male,Single,1,Y
+45,24,1,3,Computer Science,Male,Married,2,Y
+46,43,2,2,Computer Science,Female,Divorced,1,Y
+57,30,1,2,Computer Science,Female,Single,1,Y
+70,35,11,2,Computer Science,Male,Married,2,Y
+75,35,23,4,Computer Science,Female,Married,3,Y
+78,32,1,3,Computer Science,Male,Married,1,Y
+80,50,7,2,Computer Science,Female,Divorced,5,Y
+84,55,8,3,Computer Science,Female,Divorced,2,Y
+88,35,1,3,Computer Science,Male,Married,4,Y
+90,36,9,3,Computer Science,Male,Married,0,Y
+95,31,1,4,Computer Science,Male,Single,1,Y
+102,37,7,4,Computer Science,Male,Single,4,Y
+103,46,5,2,Computer Science,Male,Divorced,8,Y
+105,35,1,3,Computer Science,Male,Single,1,Y
+107,38,6,3,Computer Science,Female,Divorced,7,Y
+110,34,1,2,Computer Science,Male,Married,1,Y
+118,46,9,2,Computer Science,Male,Single,1,Y
+121,30,4,2,Computer Science,Female,Divorced,1,Y
+124,46,1,3,Computer Science,Male,Married,2,Y
+125,32,6,4,Computer Science,Male,Single,1,Y
+129,28,4,3,Computer Science,Male,Married,1,Y
+131,58,10,4,Computer Science,Male,Single,0,Y
+132,44,23,3,Computer Science,Male,Married,4,Y
+143,25,7,1,Computer Science,Male,Married,1,Y
+144,22,15,3,Computer Science,Female,Single,1,Y
+145,51,1,4,Computer Science,Female,Single,3,Y
+153,34,5,3,Computer Science,Female,Single,2,Y
+165,58,23,4,Computer Science,Female,Married,1,Y
+170,49,20,4,Computer Science,Female,Married,1,Y
+171,43,28,3,Computer Science,Female,Single,4,Y
+178,36,6,2,Computer Science,Male,Divorced,6,Y
+190,32,9,3,Computer Science,Female,Single,7,Y
+192,45,29,3,Computer Science,Male,Single,5,Y
+195,32,9,2,Computer Science,Male,Divorced,0,Y
+198,30,2,1,Computer Science,Male,Single,0,Y
+201,19,3,1,Computer Science,Female,Single,1,Y
+202,40,26,3,Computer Science,Female,Divorced,1,Y
+211,51,7,4,Computer Science,Male,Married,2,Y
+214,58,9,3,Computer Science,Female,Married,4,Y
+217,22,19,1,Computer Science,Male,Married,1,Y
+218,27,9,3,Computer Science,Male,Divorced,6,Y
+221,28,21,3,Computer Science,Male,Married,1,Y
+224,27,3,3,Computer Science,Male,Divorced,1,Y
+238,36,3,2,Computer Science,Male,Single,4,Y
+239,30,9,3,Computer Science,Male,Divorced,1,Y
+246,31,12,1,Computer Science,Female,Married,8,Y
+247,34,27,2,Computer Science,Female,Single,2,Y
+249,50,1,3,Computer Science,Male,Married,2,Y
+250,53,13,2,Computer Science,Female,Divorced,1,Y
+252,33,14,3,Computer Science,Female,Married,1,Y
+253,40,4,1,Computer Science,Female,Married,1,Y
+254,55,14,4,Computer Science,Male,Single,8,Y
+258,51,3,3,Computer Science,Female,Single,3,Y
+260,27,9,3,Computer Science,Female,Single,1,Y
+262,43,7,3,Computer Science,Male,Divorced,4,Y
+264,45,2,2,Computer Science,Male,Married,9,Y
+269,35,2,3,Computer Science,Female,Single,5,Y
+270,42,21,2,Computer Science,Female,Divorced,2,Y
+277,34,10,4,Computer Science,Male,Divorced,1,Y
+281,40,19,2,Computer Science,Male,Married,8,Y
+282,38,29,1,Computer Science,Male,Married,7,Y
+286,36,18,1,Computer Science,Female,Single,1,Y
+288,46,1,4,Computer Science,Male,Divorced,7,Y
+291,32,4,4,Computer Science,Male,Married,1,Y
+302,45,6,3,Computer Science,Female,Single,6,Y
+305,33,4,4,Computer Science,Female,Married,6,Y
+308,31,1,4,Computer Science,Male,Married,0,Y
+312,29,1,1,Computer Science,Female,Married,1,Y
+315,29,18,1,Computer Science,Male,Single,1,Y
+321,59,6,2,Computer Science,Male,Married,8,Y
+323,50,1,4,Computer Science,Female,Divorced,3,Y
+325,33,14,3,Computer Science,Male,Married,5,Y
+332,39,1,4,Computer Science,Female,Divorced,7,Y
+337,31,3,4,Computer Science,Male,Divorced,9,Y
+340,37,1,2,Computer Science,Female,Married,2,Y
+342,37,10,3,Computer Science,Male,Divorced,6,Y
+351,42,2,3,Computer Science,Female,Divorced,0,Y
+352,40,2,2,Computer Science,Male,Divorced,0,Y
+355,31,29,2,Computer Science,Male,Single,0,Y
+366,29,2,3,Computer Science,Male,Married,2,Y
+367,31,23,3,Computer Science,Male,Married,0,Y
+372,45,20,2,Computer Science,Male,Married,0,Y
+374,55,1,3,Computer Science,Male,Single,0,Y
+377,28,9,3,Computer Science,Male,Married,1,Y
+378,37,6,4,Computer Science,Male,Married,4,Y
+379,21,3,2,Computer Science,Male,Single,1,Y
+380,37,1,4,Computer Science,Female,Divorced,2,Y
+382,38,7,2,Computer Science,Female,Divorced,1,Y
+386,53,3,4,Computer Science,Male,Married,3,Y
+390,26,11,2,Computer Science,Male,Married,1,Y
+394,26,16,4,Computer Science,Male,Divorced,2,Y
+403,37,9,3,Computer Science,Male,Married,1,Y
+408,51,2,3,Computer Science,Male,Divorced,5,Y
+411,18,10,3,Computer Science,Female,Single,1,Y
+412,28,16,2,Computer Science,Male,Single,0,Y
+417,39,1,3,Computer Science,Male,Divorced,0,Y
+429,39,10,1,Computer Science,Male,Married,1,Y
+433,52,8,4,Computer Science,Male,Married,2,Y
+439,32,2,4,Computer Science,Female,Single,7,Y
+440,28,2,4,Computer Science,Male,Married,5,Y
+441,30,28,2,Computer Science,Female,Married,1,Y
+444,39,7,2,Computer Science,Male,Married,1,Y
+445,39,3,2,Computer Science,Female,Married,4,Y
+453,40,1,2,Computer Science,Male,Married,2,Y
+460,37,5,2,Computer Science,Male,Divorced,7,Y
+462,31,7,4,Computer Science,Female,Single,1,Y
+466,41,6,3,Computer Science,Male,Single,6,Y
+467,47,4,1,Computer Science,Male,Single,3,Y
+471,32,2,3,Computer Science,Female,Married,1,Y
+473,48,29,1,Computer Science,Female,Married,3,Y
+474,37,6,3,Computer Science,Male,Divorced,4,Y
+479,36,1,5,Computer Science,Female,Single,4,Y
+481,36,3,4,Computer Science,Male,Married,4,Y
+482,57,1,4,Computer Science,Male,Married,2,Y
+484,21,9,2,Computer Science,Male,Single,1,Y
+486,37,10,3,Computer Science,Female,Married,6,Y
+487,46,7,4,Computer Science,Female,Married,2,Y
+497,27,1,2,Computer Science,Male,Divorced,1,Y
+511,22,11,3,Computer Science,Female,Married,1,Y
+513,36,2,2,Computer Science,Male,Married,1,Y
+521,40,2,3,Computer Science,Female,Married,6,Y
+522,54,5,2,Computer Science,Male,Married,4,Y
+524,31,7,2,Computer Science,Female,Married,1,Y
+525,43,21,3,Computer Science,Male,Married,7,Y
+529,37,25,5,Computer Science,Female,Married,3,Y
+536,28,17,2,Computer Science,Male,Divorced,1,Y
+538,25,3,3,Computer Science,Male,Married,5,Y
+543,52,3,3,Computer Science,Male,Married,2,Y
+550,46,18,3,Computer Science,Female,Divorced,2,Y
+564,29,3,4,Computer Science,Male,Married,1,Y
+571,30,2,3,Computer Science,Female,Single,0,Y
+574,47,2,2,Computer Science,Female,Divorced,5,Y
+582,33,15,1,Computer Science,Male,Married,7,Y
+584,33,10,1,Computer Science,Male,Divorced,7,Y
+592,36,10,4,Computer Science,Male,Single,1,Y
+605,42,24,3,Computer Science,Male,Married,1,Y
+612,33,1,5,Computer Science,Female,Divorced,4,Y
+618,26,29,2,Computer Science,Male,Divorced,5,Y
+620,35,1,3,Computer Science,Female,Single,1,Y
+624,46,18,1,Computer Science,Female,Married,5,Y
+626,37,9,4,Computer Science,Male,Divorced,1,Y
+632,24,24,3,Computer Science,Male,Married,0,Y
+634,38,10,3,Computer Science,Female,Married,3,Y
+639,24,23,3,Computer Science,Male,Married,1,Y
+644,50,3,3,Computer Science,Male,Married,1,Y
+645,25,13,1,Computer Science,Male,Married,1,Y
+650,31,13,4,Computer Science,Male,Divorced,2,Y
+653,31,6,4,Computer Science,Male,Divorced,4,Y
+655,27,6,4,Computer Science,Female,Divorced,0,Y
+663,43,9,5,Computer Science,Male,Divorced,3,Y
+675,22,6,1,Computer Science,Male,Married,0,Y
+680,30,3,3,Computer Science,Female,Divorced,1,Y
+682,53,1,1,Computer Science,Female,Single,7,Y
+690,29,3,2,Computer Science,Female,Married,1,Y
+698,54,19,4,Computer Science,Male,Married,2,Y
+699,36,9,2,Computer Science,Male,Divorced,2,Y
+700,27,3,4,Computer Science,Male,Single,0,Y
+701,20,10,1,Computer Science,Male,Single,1,Y
+705,23,4,3,Computer Science,Male,Married,2,Y
+714,27,3,1,Computer Science,Female,Divorced,1,Y
+716,50,28,1,Computer Science,Male,Married,1,Y
+717,34,9,3,Computer Science,Female,Single,1,Y
+744,44,24,3,Computer Science,Male,Single,2,Y
+746,47,3,3,Computer Science,Female,Divorced,9,Y
+752,42,19,3,Computer Science,Male,Divorced,6,Y
+757,34,8,2,Computer Science,Female,Single,3,Y
+758,23,9,1,Computer Science,Male,Married,1,Y
+762,56,9,3,Computer Science,Male,Married,7,Y
+763,40,2,1,Computer Science,Female,Single,0,Y
+764,27,7,3,Computer Science,Female,Single,8,Y
+773,38,2,5,Computer Science,Male,Married,6,Y
+781,25,26,1,Computer Science,Female,Single,1,Y
+784,23,10,1,Computer Science,Male,Single,1,Y
+787,55,2,3,Computer Science,Male,Married,5,Y
+791,52,19,4,Computer Science,Male,Married,0,Y
+793,29,27,3,Computer Science,Female,Married,4,Y
+799,54,19,4,Computer Science,Female,Divorced,9,Y
+804,34,2,4,Computer Science,Female,Single,1,Y
+807,40,2,2,Computer Science,Female,Married,1,Y
+815,50,2,3,Computer Science,Male,Married,5,Y
+817,33,7,3,Computer Science,Male,Married,0,Y
+828,28,2,4,Computer Science,Male,Single,6,Y
+832,40,16,4,Computer Science,Male,Single,6,Y
+833,30,2,3,Computer Science,Female,Single,5,Y
+842,55,2,1,Computer Science,Male,Single,4,Y
+848,26,5,2,Computer Science,Female,Married,1,Y
+850,27,3,3,Computer Science,Male,Married,1,Y
+852,44,4,3,Computer Science,Male,Single,9,Y
+854,25,2,1,Computer Science,Male,Single,7,Y
+855,33,1,3,Computer Science,Male,Divorced,1,Y
+856,35,27,1,Computer Science,Female,Single,1,Y
+865,32,8,2,Computer Science,Female,Married,5,Y
+867,52,25,4,Computer Science,Female,Married,3,Y
+869,28,8,2,Computer Science,Male,Divorced,1,Y
+875,42,2,1,Computer Science,Male,Single,5,Y
+896,29,1,3,Computer Science,Female,Divorced,6,Y
+900,37,21,2,Computer Science,Female,Married,5,Y
+904,37,19,2,Computer Science,Male,Single,1,Y
+912,29,7,1,Computer Science,Female,Divorced,6,Y
+916,28,5,4,Computer Science,Male,Single,1,Y
+922,20,2,3,Computer Science,Female,Single,1,Y
+930,28,9,3,Computer Science,Female,Divorced,5,Y
+932,39,6,3,Computer Science,Male,Married,7,Y
+936,42,14,2,Computer Science,Female,Single,7,Y
+945,48,20,4,Computer Science,Male,Married,4,Y
+956,26,1,3,Computer Science,Male,Single,1,Y
+957,41,6,3,Computer Science,Male,Single,2,Y
+958,36,2,4,Computer Science,Male,Single,4,Y
+961,31,12,3,Computer Science,Female,Married,0,Y
+964,40,9,4,Computer Science,Male,Divorced,8,Y
+966,32,3,4,Computer Science,Female,Married,1,Y
+975,35,18,3,Computer Science,Female,Married,1,Y
+981,53,2,2,Computer Science,Male,Divorced,6,Y
+987,47,16,4,Computer Science,Male,Divorced,1,Y
+991,31,9,2,Computer Science,Male,Single,0,Y
+996,45,1,4,Computer Science,Female,Divorced,3,Y
+997,50,1,2,Computer Science,Male,Divorced,9,Y
+999,41,9,3,Computer Science,Male,Divorced,2,Y
+1006,38,10,1,Computer Science,Male,Married,0,Y
+1007,46,7,2,Computer Science,Male,Divorced,6,Y
+1009,24,17,1,Computer Science,Female,Divorced,1,Y
+1014,35,25,4,Computer Science,Female,Divorced,1,Y
+1016,20,11,3,Computer Science,Female,Single,1,Y
+1017,30,5,3,Computer Science,Female,Single,0,Y
+1018,26,2,2,Computer Science,Male,Married,1,Y
+1025,41,7,2,Computer Science,Female,Single,6,Y
+1033,37,11,2,Computer Science,Female,Married,5,Y
+1034,55,18,4,Computer Science,Male,Married,3,Y
+1037,26,29,2,Computer Science,Male,Single,8,Y
+1039,44,28,3,Computer Science,Female,Married,3,Y
+1043,39,22,3,Computer Science,Female,Single,1,Y
+1046,32,29,4,Computer Science,Female,Single,9,Y
+1049,45,24,4,Computer Science,Male,Single,1,Y
+1056,28,10,1,Computer Science,Male,Married,1,Y
+1061,50,2,4,Computer Science,Male,Married,2,Y
+1068,26,1,1,Computer Science,Female,Divorced,1,Y
+1069,46,1,4,Computer Science,Male,Divorced,9,Y
+1071,56,9,3,Computer Science,Female,Married,2,Y
+1073,36,12,5,Computer Science,Female,Single,0,Y
+1074,55,2,1,Computer Science,Male,Single,7,Y
+1076,43,25,3,Computer Science,Male,Divorced,5,Y
+1083,26,1,2,Computer Science,Male,Married,1,Y
+1098,44,1,2,Computer Science,Male,Married,9,Y
+1101,33,29,4,Computer Science,Female,Single,1,Y
+1107,26,21,3,Computer Science,Male,Divorced,1,Y
+1108,33,25,3,Computer Science,Male,Single,4,Y
+1109,42,2,2,Computer Science,Male,Married,0,Y
+1111,28,1,3,Computer Science,Male,Divorced,1,Y
+1116,48,1,4,Computer Science,Male,Single,2,Y
+1121,28,3,3,Computer Science,Female,Divorced,0,Y
+1128,40,14,3,Computer Science,Male,Single,1,Y
+1148,42,29,3,Computer Science,Male,Single,4,Y
+1150,29,8,1,Computer Science,Male,Married,1,Y
+1156,18,8,1,Computer Science,Male,Single,1,Y
+1160,31,15,3,Computer Science,Male,Married,1,Y
+1161,37,25,2,Computer Science,Female,Divorced,7,Y
+1166,40,9,4,Computer Science,Female,Single,9,Y
+1172,35,1,4,Computer Science,Male,Married,6,Y
+1173,24,24,3,Computer Science,Male,Single,8,Y
+1177,26,3,4,Computer Science,Male,Married,1,Y
+1180,40,26,2,Computer Science,Female,Married,3,Y
+1184,34,1,3,Computer Science,Male,Single,0,Y
+1192,29,6,1,Computer Science,Female,Married,1,Y
+1195,45,7,3,Computer Science,Female,Married,4,Y
+1201,53,7,2,Computer Science,Female,Divorced,3,Y
+1212,40,2,4,Computer Science,Male,Married,5,Y
+1215,50,2,3,Computer Science,Female,Married,2,Y
+1216,28,19,4,Computer Science,Male,Married,1,Y
+1220,33,25,3,Computer Science,Female,Married,1,Y
+1231,42,2,5,Computer Science,Male,Married,7,Y
+1238,33,9,3,Computer Science,Male,Married,0,Y
+1241,30,1,3,Computer Science,Male,Married,0,Y
+1242,42,26,5,Computer Science,Female,Married,3,Y
+1248,19,10,3,Computer Science,Female,Single,1,Y
+1251,31,11,2,Computer Science,Male,Married,1,Y
+1252,31,24,3,Computer Science,Female,Single,1,Y
+1256,49,4,2,Computer Science,Male,Married,2,Y
+1278,55,8,1,Computer Science,Male,Divorced,1,Y
+1283,59,18,4,Computer Science,Male,Single,6,Y
+1285,34,19,3,Computer Science,Female,Divorced,4,Y
+1286,28,1,4,Computer Science,Male,Single,0,Y
+1292,42,7,4,Computer Science,Female,Married,6,Y
+1295,44,15,3,Computer Science,Female,Married,1,Y
+1297,51,6,2,Computer Science,Female,Single,0,Y
+1298,30,9,2,Computer Science,Female,Single,7,Y
+1303,25,1,3,Computer Science,Female,Single,1,Y
+1304,32,8,3,Computer Science,Male,Married,1,Y
+1306,45,25,3,Computer Science,Female,Single,3,Y
+1307,39,13,4,Computer Science,Female,Divorced,6,Y
+1310,39,23,3,Computer Science,Male,Single,0,Y
+1321,30,17,4,Computer Science,Female,Married,1,Y
+1329,41,10,2,Computer Science,Male,Single,1,Y
+1336,55,2,2,Computer Science,Female,Married,4,Y
+1356,34,15,2,Computer Science,Female,Single,1,Y
+1358,25,19,1,Computer Science,Male,Married,3,Y
+1360,58,7,4,Computer Science,Female,Married,7,Y
+1364,27,11,3,Computer Science,Female,Married,8,Y
+1369,35,1,3,Computer Science,Female,Married,0,Y
+1375,40,2,1,Computer Science,Female,Divorced,5,Y
+1377,34,29,3,Computer Science,Male,Married,4,Y
+1389,31,22,4,Computer Science,Male,Married,1,Y
+1401,52,28,2,Computer Science,Female,Married,2,Y
+1402,43,6,3,Computer Science,Female,Single,1,Y
+1407,26,2,1,Computer Science,Male,Single,0,Y
+1411,37,11,3,Computer Science,Female,Single,4,Y
+1422,54,1,3,Computer Science,Female,Single,6,Y
+1423,58,1,3,Computer Science,Female,Married,3,Y
+1424,55,1,4,Computer Science,Male,Divorced,2,Y
+1443,47,2,4,Computer Science,Female,Married,3,Y
+1445,24,4,1,Computer Science,Female,Married,1,Y
+1448,41,5,5,Computer Science,Male,Married,2,Y
+1460,45,20,3,Computer Science,Male,Divorced,2,Y
+1461,31,8,2,Computer Science,Female,Single,9,Y
+1468,40,8,1,Computer Science,Male,Divorced,2,Y
+1469,28,5,3,Computer Science,Male,Single,0,Y
+1472,53,2,3,Computer Science,Male,Single,4,Y
+1474,40,2,3,Computer Science,Male,Divorced,2,Y
+1477,33,7,3,Computer Science,Male,Married,0,Y
+1480,42,9,2,Computer Science,Female,Single,1,Y
+1485,34,15,3,Computer Science,Male,Divorced,7,Y
+1489,34,24,4,Computer Science,Female,Single,0,Y
+1494,24,9,3,Computer Science,Male,Single,2,Y
+1496,44,2,1,Computer Science,Male,Single,5,Y
+1502,33,4,4,Computer Science,Female,Married,8,Y
+1503,47,14,3,Computer Science,Female,Married,3,Y
+1504,28,2,2,Computer Science,Male,Single,7,Y
+1509,49,3,2,Computer Science,Female,Married,4,Y
+1516,32,10,3,Computer Science,Male,Single,2,Y
+1520,54,11,4,Computer Science,Female,Divorced,3,Y
+1539,50,22,5,Computer Science,Male,Single,1,Y
+1542,42,2,3,Computer Science,Male,Married,4,Y
+1543,37,13,3,Computer Science,Male,Married,1,Y
+1548,40,9,2,Computer Science,Male,Married,0,Y
+1550,40,6,2,Computer Science,Male,Single,1,Y
+1564,35,1,3,Computer Science,Male,Single,1,Y
+1573,38,2,3,Computer Science,Male,Married,4,Y
+1577,34,7,4,Computer Science,Male,Single,1,Y
+1586,29,3,1,Computer Science,Male,Single,1,Y
+1587,35,10,4,Computer Science,Female,Single,3,Y
+1588,39,6,3,Computer Science,Male,Married,2,Y
+1604,28,24,3,Computer Science,Male,Married,1,Y
+1606,50,20,5,Computer Science,Male,Married,2,Y
+1608,44,7,3,Computer Science,Female,Divorced,0,Y
+1609,30,7,3,Computer Science,Male,Married,1,Y
+1611,45,5,5,Computer Science,Female,Single,1,Y
+1618,39,10,5,Computer Science,Male,Married,2,Y
+1622,28,27,3,Computer Science,Female,Divorced,0,Y
+1623,21,5,1,Computer Science,Male,Single,1,Y
+1624,18,3,2,Computer Science,Female,Single,1,Y
+1627,39,3,2,Computer Science,Male,Divorced,0,Y
+1633,39,4,3,Computer Science,Female,Single,0,Y
+1638,38,2,2,Computer Science,Female,Married,3,Y
+1639,35,10,3,Computer Science,Male,Married,9,Y
+1640,37,10,3,Computer Science,Female,Married,1,Y
+1644,48,4,5,Computer Science,Male,Married,2,Y
+1645,35,15,2,Computer Science,Male,Divorced,6,Y
+1647,27,8,3,Computer Science,Female,Married,7,Y
+1648,27,2,3,Computer Science,Male,Single,2,Y
+1650,29,10,3,Computer Science,Male,Single,9,Y
+1654,39,12,3,Computer Science,Male,Married,4,Y
+1657,20,2,3,Computer Science,Female,Single,1,Y
+1662,36,1,4,Computer Science,Female,Married,0,Y
+1665,54,22,5,Computer Science,Female,Married,3,Y
+1669,29,5,3,Computer Science,Male,Divorced,1,Y
+1670,33,2,4,Computer Science,Male,Divorced,1,Y
+1671,32,2,3,Computer Science,Male,Divorced,0,Y
+1674,49,16,3,Computer Science,Female,Divorced,4,Y
+1675,38,2,3,Computer Science,Female,Single,1,Y
+1684,23,8,1,Computer Science,Male,Single,1,Y
+1687,38,4,2,Computer Science,Female,Married,7,Y
+1689,53,24,4,Computer Science,Male,Married,3,Y
+1691,48,7,2,Computer Science,Female,Married,2,Y
+1693,26,7,3,Computer Science,Male,Single,1,Y
+1696,34,5,2,Computer Science,Male,Married,1,Y
+1697,60,1,4,Computer Science,Male,Divorced,3,Y
+1698,33,21,3,Computer Science,Male,Married,1,Y
+1700,37,1,4,Computer Science,Male,Divorced,1,Y
+1704,35,2,4,Computer Science,Male,Single,0,Y
+1706,43,2,3,Computer Science,Male,Married,1,Y
+1707,24,9,3,Computer Science,Male,Married,1,Y
+1709,29,9,4,Computer Science,Female,Married,9,Y
+1718,26,17,4,Computer Science,Male,Married,1,Y
+1725,24,29,1,Computer Science,Male,Divorced,1,Y
+1735,23,4,1,Computer Science,Female,Single,1,Y
+1740,40,7,4,Computer Science,Male,Single,1,Y
+1746,24,10,3,Computer Science,Male,Married,0,Y
+1751,27,8,3,Computer Science,Female,Single,1,Y
+1755,34,2,4,Computer Science,Male,Married,0,Y
+1760,38,2,2,Computer Science,Female,Married,4,Y
+1766,38,18,3,Computer Science,Male,Married,3,Y
+1768,42,12,3,Computer Science,Male,Divorced,8,Y
+1770,55,2,3,Computer Science,Male,Married,8,Y
+1775,53,1,4,Computer Science,Female,Married,4,Y
+1783,22,8,1,Computer Science,Female,Married,1,Y
+1789,46,2,4,Computer Science,Male,Divorced,7,Y
+1792,44,1,2,Computer Science,Male,Divorced,1,Y
+1800,39,10,1,Computer Science,Male,Single,7,Y
+1803,42,13,3,Computer Science,Male,Married,5,Y
+1804,35,2,2,Computer Science,Male,Divorced,2,Y
+1809,37,10,4,Computer Science,Male,Single,1,Y
+1816,30,10,3,Computer Science,Female,Single,9,Y
+1818,26,20,2,Computer Science,Female,Married,0,Y
+1821,46,21,2,Computer Science,Female,Married,4,Y
+1824,58,2,3,Computer Science,Male,Divorced,4,Y
+1826,35,23,4,Computer Science,Male,Married,0,Y
+1830,54,7,4,Computer Science,Female,Married,4,Y
+1834,28,1,3,Computer Science,Female,Married,1,Y
+1836,26,10,3,Computer Science,Male,Single,1,Y
+1839,18,14,3,Computer Science,Female,Single,1,Y
+1852,29,20,1,Computer Science,Male,Married,1,Y
+1864,27,23,1,Computer Science,Female,Married,1,Y
+1865,29,6,1,Computer Science,Male,Married,1,Y
+1866,43,6,3,Computer Science,Female,Married,7,Y
+1875,28,3,3,Computer Science,Female,Married,1,Y
+1876,30,9,3,Computer Science,Male,Single,1,Y
+1885,37,7,4,Computer Science,Male,Married,5,Y
+1898,27,2,2,Computer Science,Female,Single,0,Y
+1900,48,22,3,Computer Science,Female,Divorced,3,Y
+1911,42,6,3,Computer Science,Male,Married,9,Y
+1912,31,10,2,Computer Science,Female,Divorced,2,Y
+1915,34,3,1,Computer Science,Female,Married,3,Y
+1916,31,4,3,Computer Science,Female,Divorced,8,Y
+1922,45,1,4,Computer Science,Male,Single,4,Y
+1936,39,9,2,Computer Science,Male,Married,1,Y
+1937,38,8,3,Computer Science,Female,Divorced,1,Y
+1945,35,18,4,Computer Science,Male,Married,0,Y
+1947,28,16,3,Computer Science,Male,Single,1,Y
+1948,31,3,2,Computer Science,Male,Divorced,1,Y
+1951,34,13,4,Computer Science,Male,Divorced,1,Y
+1952,26,1,3,Computer Science,Male,Single,0,Y
+1955,32,15,4,Computer Science,Female,Divorced,5,Y
+1974,31,2,1,Computer Science,Female,Divorced,1,Y
+1979,31,10,3,Computer Science,Female,Married,4,Y
+1980,54,10,3,Computer Science,Female,Single,6,Y
+1989,30,1,2,Computer Science,Male,Married,1,Y
+1993,47,25,3,Computer Science,Male,Single,2,Y
+1994,33,1,2,Computer Science,Male,Divorced,1,Y
+2000,47,1,1,Computer Science,Female,Married,0,Y
+2003,35,11,4,Computer Science,Male,Married,7,Y
+2008,35,9,4,Computer Science,Male,Single,1,Y
+2009,33,15,2,Computer Science,Female,Married,0,Y
+2013,32,1,4,Computer Science,Male,Married,0,Y
+2015,38,10,3,Computer Science,Female,Married,3,Y
+2020,44,1,3,Computer Science,Male,Single,6,Y
+2021,21,5,1,Computer Science,Male,Single,1,Y
+2024,36,3,3,Computer Science,Female,Married,0,Y
+2027,29,1,4,Computer Science,Male,Married,9,Y
+2051,40,2,4,Computer Science,Female,Married,2,Y
+2054,29,28,4,Computer Science,Female,Single,1,Y
+2057,31,5,3,Computer Science,Male,Single,0,Y
+2061,36,23,2,Computer Science,Male,Married,4,Y
+2062,39,6,1,Computer Science,Male,Married,4,Y
+2065,49,2,3,Computer Science,Male,Married,2,Y
+2068,34,8,3,Computer Science,Male,Married,2,Y
+2068,34,8,3,Computer Science,Male,Married,2,Y
+4,37,2,2,Other,Male,Single,6,Y
+26,24,11,2,Other,Female,Divorced,0,Y
+32,53,5,3,Other,Female,Divorced,4,Y
+40,44,10,4,Other,Male,Married,2,Y
+53,35,4,2,Other,Male,Divorced,1,Y
+101,45,6,4,Other,Male,Married,4,Y
+128,24,3,2,Other,Female,Married,0,Y
+138,34,6,4,Other,Female,Single,1,Y
+164,26,6,3,Other,Female,Married,1,Y
+306,37,11,3,Other,Male,Divorced,1,Y
+336,45,1,3,Other,Male,Married,0,Y
+452,45,8,4,Other,Male,Married,9,Y
+454,29,8,4,Other,Male,Married,1,Y
+455,29,9,5,Other,Male,Single,0,Y
+477,42,2,4,Other,Male,Single,3,Y
+499,49,7,3,Other,Male,Single,8,Y
+526,43,8,4,Other,Female,Divorced,4,Y
+567,30,22,4,Other,Female,Married,0,Y
+591,42,5,2,Other,Male,Married,4,Y
+606,45,2,3,Other,Male,Married,0,Y
+615,40,28,3,Other,Male,Divorced,3,Y
+616,41,2,4,Other,Female,Single,2,Y
+631,32,11,4,Other,Male,Married,8,Y
+643,24,17,2,Other,Male,Married,1,Y
+652,35,25,2,Other,Male,Single,4,Y
+661,43,6,4,Other,Male,Divorced,4,Y
+671,44,3,4,Other,Male,Married,4,Y
+689,37,3,3,Other,Male,Married,1,Y
+780,33,1,4,Other,Male,Single,1,Y
+786,34,2,3,Other,Male,Single,1,Y
+820,47,2,2,Other,Female,Married,1,Y
+823,36,1,3,Other,Female,Married,0,Y
+845,35,7,3,Other,Male,Single,3,Y
+879,25,3,1,Other,Male,Married,1,Y
+923,21,18,1,Other,Female,Single,1,Y
+939,33,1,4,Other,Male,Single,3,Y
+944,49,8,2,Other,Female,Married,4,Y
+949,36,7,4,Other,Male,Single,2,Y
+959,19,21,3,Other,Male,Single,1,Y
+982,30,8,2,Other,Male,Divorced,5,Y
+998,33,1,4,Other,Female,Married,1,Y
+1010,35,14,4,Other,Male,Divorced,1,Y
+1028,35,10,3,Other,Male,Divorced,1,Y
+1052,36,15,3,Other,Male,Divorced,7,Y
+1060,38,3,4,Other,Male,Married,3,Y
+1062,37,3,3,Other,Female,Single,3,Y
+1084,30,20,3,Other,Male,Married,0,Y
+1097,28,10,3,Other,Female,Single,3,Y
+1113,50,1,4,Other,Male,Single,3,Y
+1185,35,4,4,Other,Male,Married,1,Y
+1225,44,29,4,Other,Male,Single,1,Y
+1234,32,13,3,Other,Female,Married,1,Y
+1409,52,8,4,Other,Female,Married,9,Y
+1417,26,7,3,Other,Male,Single,0,Y
+1419,29,17,3,Other,Male,Single,1,Y
+1421,29,14,1,Other,Female,Single,0,Y
+1431,34,1,4,Other,Male,Divorced,5,Y
+1449,40,9,4,Other,Male,Divorced,3,Y
+1478,34,3,3,Other,Male,Single,3,Y
+1544,29,8,1,Other,Female,Married,3,Y
+1576,48,15,4,Other,Female,Married,8,Y
+1595,42,9,2,Other,Male,Single,8,Y
+1605,22,26,2,Other,Female,Married,1,Y
+1607,32,5,4,Other,Female,Married,3,Y
+1613,31,2,4,Other,Male,Single,7,Y
+1619,27,19,3,Other,Male,Divorced,1,Y
+1635,45,2,2,Other,Female,Divorced,1,Y
+1655,49,22,4,Other,Female,Married,3,Y
+1667,35,12,4,Other,Male,Single,3,Y
+1782,38,6,2,Other,Female,Married,1,Y
+1794,37,8,2,Other,Male,Divorced,2,Y
+1847,36,2,4,Other,Female,Married,4,Y
+1871,39,19,4,Other,Male,Divorced,8,Y
+1886,35,16,2,Other,Female,Married,0,Y
+1918,26,6,3,Other,Male,Married,0,Y
+1932,34,22,4,Other,Male,Married,1,Y
+1972,38,1,4,Other,Male,Married,0,Y
+1982,23,12,2,Other,Male,Single,1,Y
+1992,25,2,1,Other,Male,Divorced,6,Y
+2018,25,8,2,Other,Female,Divorced,0,Y
+2053,29,13,2,Other,Male,Married,4,Y
+2060,26,5,3,Other,Female,Single,0,Y
+42,39,5,3,Technical Degree,Male,Married,3,Y
+58,41,12,3,Technical Degree,Female,Married,1,Y
+65,28,5,4,Technical Degree,Male,Single,1,Y
+83,36,8,3,Technical Degree,Female,Divorced,1,Y
+113,23,2,1,Technical Degree,Male,Divorced,3,Y
+126,54,2,4,Technical Degree,Female,Married,9,Y
+154,36,11,2,Technical Degree,Female,Married,0,Y
+169,22,2,1,Technical Degree,Male,Married,0,Y
+193,38,3,5,Technical Degree,Female,Single,3,Y
+197,30,5,3,Technical Degree,Female,Divorced,5,Y
+208,29,1,1,Technical Degree,Male,Married,1,Y
+233,27,17,3,Technical Degree,Male,Married,0,Y
+235,19,1,1,Technical Degree,Female,Single,0,Y
+273,38,29,3,Technical Degree,Male,Married,3,Y
+274,27,1,1,Technical Degree,Male,Married,5,Y
+297,30,3,3,Technical Degree,Female,Single,5,Y
+300,29,1,3,Technical Degree,Male,Single,0,Y
+319,42,4,2,Technical Degree,Male,Married,1,Y
+335,40,24,2,Technical Degree,Male,Divorced,1,Y
+343,39,2,4,Technical Degree,Female,Single,0,Y
+362,32,2,1,Technical Degree,Male,Single,4,Y
+363,46,2,3,Technical Degree,Female,Married,3,Y
+389,55,20,2,Technical Degree,Male,Married,3,Y
+397,36,3,3,Technical Degree,Male,Single,4,Y
+416,31,7,3,Technical Degree,Male,Married,4,Y
+423,31,5,4,Technical Degree,Male,Married,0,Y
+431,49,1,2,Technical Degree,Female,Single,7,Y
+436,32,8,2,Technical Degree,Female,Married,1,Y
+464,35,5,4,Technical Degree,Male,Single,0,Y
+470,42,2,1,Technical Degree,Male,Divorced,0,Y
+475,30,25,2,Technical Degree,Female,Married,7,Y
+478,21,1,1,Technical Degree,Female,Single,1,Y
+491,50,10,3,Technical Degree,Male,Single,6,Y
+508,30,2,1,Technical Degree,Male,Married,1,Y
+510,26,3,1,Technical Degree,Male,Single,0,Y
+514,30,4,3,Technical Degree,Male,Single,9,Y
+533,30,12,3,Technical Degree,Female,Single,0,Y
+551,42,28,4,Technical Degree,Female,Married,0,Y
+554,24,1,1,Technical Degree,Female,Single,1,Y
+565,29,25,5,Technical Degree,Female,Married,5,Y
+566,19,2,2,Technical Degree,Male,Single,1,Y
+593,22,4,1,Technical Degree,Male,Single,5,Y
+611,29,19,3,Technical Degree,Male,Divorced,4,Y
+622,26,24,3,Technical Degree,Male,Single,1,Y
+623,37,1,3,Technical Degree,Female,Single,4,Y
+630,52,6,2,Technical Degree,Male,Divorced,3,Y
+666,34,14,3,Technical Degree,Female,Divorced,1,Y
+669,21,22,1,Technical Degree,Male,Single,1,Y
+721,39,2,4,Technical Degree,Female,Single,1,Y
+723,50,8,2,Technical Degree,Male,Married,3,Y
+783,45,2,2,Technical Degree,Male,Single,0,Y
+796,26,8,3,Technical Degree,Male,Single,6,Y
+844,27,5,1,Technical Degree,Male,Divorced,1,Y
+887,49,1,3,Technical Degree,Female,Married,2,Y
+899,35,25,3,Technical Degree,Male,Married,3,Y
+940,58,5,3,Technical Degree,Female,Divorced,2,Y
+950,38,1,3,Technical Degree,Female,Married,1,Y
+960,20,4,3,Technical Degree,Male,Single,1,Y
+974,29,20,3,Technical Degree,Female,Married,1,Y
+977,58,2,3,Technical Degree,Male,Single,4,Y
+983,38,10,3,Technical Degree,Female,Single,1,Y
+990,36,8,4,Technical Degree,Male,Divorced,4,Y
+1001,27,16,4,Technical Degree,Female,Married,9,Y
+1013,54,17,3,Technical Degree,Female,Married,8,Y
+1048,59,1,2,Technical Degree,Male,Married,3,Y
+1082,28,24,2,Technical Degree,Male,Single,1,Y
+1085,41,7,2,Technical Degree,Female,Married,1,Y
+1092,40,20,4,Technical Degree,Male,Married,4,Y
+1100,35,4,3,Technical Degree,Male,Single,0,Y
+1106,25,4,1,Technical Degree,Male,Married,1,Y
+1131,21,1,1,Technical Degree,Female,Single,1,Y
+1138,49,8,4,Technical Degree,Male,Married,6,Y
+1164,35,8,4,Technical Degree,Male,Single,1,Y
+1191,56,4,4,Technical Degree,Female,Divorced,4,Y
+1228,46,2,4,Technical Degree,Male,Divorced,2,Y
+1237,36,1,3,Technical Degree,Female,Divorced,2,Y
+1239,40,10,3,Technical Degree,Female,Divorced,7,Y
+1257,36,3,3,Technical Degree,Male,Married,1,Y
+1258,48,2,2,Technical Degree,Male,Single,5,Y
+1265,34,20,3,Technical Degree,Female,Married,0,Y
+1299,29,7,3,Technical Degree,Female,Divorced,3,Y
+1301,28,1,3,Technical Degree,Male,Single,2,Y
+1311,30,6,3,Technical Degree,Female,Married,0,Y
+1312,36,10,4,Technical Degree,Female,Married,3,Y
+1367,51,11,2,Technical Degree,Female,Single,3,Y
+1374,34,26,1,Technical Degree,Female,Divorced,1,Y
+1383,34,2,4,Technical Degree,Female,Single,1,Y
+1415,25,1,3,Technical Degree,Male,Married,4,Y
+1438,47,1,3,Technical Degree,Male,Married,7,Y
+1440,37,5,2,Technical Degree,Male,Single,0,Y
+1465,45,29,3,Technical Degree,Male,Married,4,Y
+1467,34,9,4,Technical Degree,Female,Married,1,Y
+1473,49,5,4,Technical Degree,Male,Married,2,Y
+1482,30,7,3,Technical Degree,Male,Divorced,1,Y
+1486,28,1,3,Technical Degree,Male,Married,3,Y
+1487,29,13,3,Technical Degree,Female,Single,5,Y
+1522,29,1,4,Technical Degree,Male,Single,6,Y
+1535,34,1,3,Technical Degree,Male,Married,1,Y
+1541,34,7,2,Technical Degree,Male,Married,0,Y
+1546,45,28,3,Technical Degree,Male,Married,4,Y
+1551,24,21,2,Technical Degree,Male,Divorced,0,Y
+1553,45,1,4,Technical Degree,Male,Divorced,1,Y
+1568,30,29,4,Technical Degree,Male,Married,3,Y
+1572,53,2,5,Technical Degree,Female,Married,0,Y
+1574,32,1,4,Technical Degree,Male,Married,4,Y
+1592,23,10,3,Technical Degree,Male,Married,2,Y
+1597,34,10,4,Technical Degree,Male,Married,1,Y
+1599,43,27,3,Technical Degree,Male,Divorced,5,Y
+1646,24,2,1,Technical Degree,Female,Single,1,Y
+1694,55,22,3,Technical Degree,Male,Divorced,5,Y
+1719,45,28,2,Technical Degree,Female,Single,1,Y
+1736,31,24,1,Technical Degree,Female,Single,2,Y
+1745,30,2,4,Technical Degree,Female,Single,0,Y
+1749,31,5,3,Technical Degree,Male,Married,1,Y
+1762,29,4,3,Technical Degree,Female,Divorced,1,Y
+1764,32,5,4,Technical Degree,Male,Single,2,Y
+1767,43,17,3,Technical Degree,Male,Married,9,Y
+1771,33,4,3,Technical Degree,Male,Divorced,5,Y
+1786,51,3,3,Technical Degree,Female,Married,2,Y
+1823,34,8,2,Technical Degree,Male,Married,1,Y
+1854,42,10,4,Technical Degree,Male,Married,3,Y
+1863,46,3,3,Technical Degree,Female,Divorced,2,Y
+1873,55,2,4,Technical Degree,Male,Married,8,Y
+1880,36,10,4,Technical Degree,Female,Married,1,Y
+1905,34,16,4,Technical Degree,Male,Married,1,Y
+1928,29,24,3,Technical Degree,Male,Single,1,Y
+1931,27,2,4,Technical Degree,Male,Married,1,Y
+1934,47,14,4,Technical Degree,Male,Married,8,Y
+1960,28,17,3,Technical Degree,Male,Divorced,5,Y
+1985,40,11,3,Technical Degree,Female,Married,1,Y
+2032,56,7,2,Technical Degree,Male,Married,8,Y
+2038,32,2,3,Technical Degree,Male,Single,1,Y
