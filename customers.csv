@@ -30,3 +30,4 @@ customer_id,first_name,last_name,email,city,state,age,gender,customer_segment,ac
 1029,Rachel,Allen,rachel.a@email.com,San Antonio,TX,43,F,Frequent,9/18/21,Direct,2234.7,Medium
 1030,Eric,Young,eric.y@email.com,Houston,TX,46,M,Dormant,12/1/20,Email,267.9,High
 1030,Eric,Young,eric.y@email.com,Houston,TX,46,M,Dormant,12/1/20,Email,267.9,High
+1030,Eric,Young,eric.y@email.com,Houston,TX,46,M,Dormant,12/1/20,Email,267.9,High
