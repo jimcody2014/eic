@@ -7,7 +7,7 @@ touchpoint_id,customer_id,session_id,touchpoint_timestamp,touchpoint_type,channe
 6006,1005,sess_1005_01,1/5/24 20:00,Ad Click,TikTok,105,tiktok.com,/trending,12,"[2001, 2002, 2003, 2005, 2007]",3,94.97,FALSE,,Mobile,
 6007,1005,sess_1005_02,1/6/24 9:25,Web Visit,Direct,,direct,/cart,2,"[2001, 2003]",0,94.97,TRUE,4010,Mobile,
 6008,1002,store_1002_01,1/7/24 13:00,Store Visit,Walk-in,,,,,,0,0,TRUE,4005,,3001
-6009,1006,store_1006_01,1/9/24 10:00,Store Visit,Walk-in,,,,,,0,0,TRUE,4006,,3002
+6009,1006,store_1006_01,1/9/24 10:00,Store Visit,Walk-in,,,,,,0,0,TRUE,4006,,3003
 6010,1007,sess_1007_01,1/8/24 15:30,Ad Click,Facebook,104,facebook.com,/fitness-gear,6,"[2004, 2016]",1,149.99,FALSE,,Desktop,
 6011,1007,sess_1007_02,1/9/24 14:25,Web Visit,Direct,,direct,/checkout,2,"[2004, 2016]",2,289.98,TRUE,4013,Desktop,
 6012,1009,sess_1009_01,1/10/24 18:00,Web Visit,Google,107,google.com,/search,7,"[2001, 2011, 2015]",2,84.98,TRUE,4007,Mobile,
