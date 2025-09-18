@@ -1,0 +1,369 @@
+{
+  "dining_room_items": [
+    {
+      "id": 1,
+      "name": "Mahogany Dining Table",
+      "category": "Furniture",
+      "material": "Solid Mahogany Wood",
+      "color": "Rich Brown",
+      "price": 1299.99,
+      "dimensions": {
+        "length": 72,
+        "width": 36,
+        "height": 30,
+        "unit": "inches"
+      },
+      "style": "Traditional",
+      "brand": "Heritage Furniture",
+      "description": "Elegant solid mahogany dining table with expandable design",
+      "capacity": 6,
+      "weight": 85
+    },
+    {
+      "id": 2,
+      "name": "Upholstered Dining Chairs",
+      "category": "Furniture",
+      "material": "Oak Wood Frame with Linen Fabric",
+      "color": "Beige",
+      "price": 189.99,
+      "dimensions": {
+        "length": 18,
+        "width": 20,
+        "height": 38,
+        "unit": "inches"
+      },
+      "style": "Contemporary",
+      "brand": "Comfort Seating Co.",
+      "description": "Set of 2 comfortable upholstered dining chairs",
+      "set_quantity": 2,
+      "weight": 22
+    },
+    {
+      "id": 3,
+      "name": "Crystal Chandelier",
+      "category": "Lighting",
+      "material": "Crystal and Brass",
+      "color": "Clear/Gold",
+      "price": 899.99,
+      "dimensions": {
+        "diameter": 24,
+        "height": 30,
+        "unit": "inches"
+      },
+      "style": "Classical",
+      "brand": "Lumière Lighting",
+      "description": "Elegant 8-light crystal chandelier with brass accents",
+      "bulb_type": "E12 Candelabra",
+      "wattage": 480
+    },
+    {
+      "id": 4,
+      "name": "China Cabinet",
+      "category": "Storage",
+      "material": "Cherry Wood with Glass Doors",
+      "color": "Cherry",
+      "price": 1599.99,
+      "dimensions": {
+        "length": 48,
+        "width": 18,
+        "height": 84,
+        "unit": "inches"
+      },
+      "style": "Traditional",
+      "brand": "Classic Storage Solutions",
+      "description": "Two-piece china cabinet with display and storage compartments",
+      "shelves": 6,
+      "weight": 165
+    },
+    {
+      "id": 5,
+      "name": "Linen Table Runner",
+      "category": "Table Linens",
+      "material": "100% Linen",
+      "color": "Natural",
+      "price": 34.99,
+      "dimensions": {
+        "length": 72,
+        "width": 14,
+        "unit": "inches"
+      },
+      "style": "Rustic",
+      "brand": "Home Textiles Co.",
+      "description": "Natural linen table runner with hemstitched edges",
+      "care_instructions": "Machine washable",
+      "pattern": "Solid"
+    },
+    {
+      "id": 6,
+      "name": "Ceramic Dinnerware Set",
+      "category": "Dinnerware",
+      "material": "Porcelain",
+      "color": "White with Blue Trim",
+      "price": 179.99,
+      "style": "Traditional",
+      "brand": "Royal Dining",
+      "description": "16-piece dinnerware set service for 4",
+      "pieces_included": ["Dinner Plates", "Salad Plates", "Bowls", "Mugs"],
+      "service_count": 4,
+      "dishwasher_safe": true
+    },
+    {
+      "id": 7,
+      "name": "Wine Glass Set",
+      "category": "Glassware",
+      "material": "Lead Crystal",
+      "color": "Clear",
+      "price": 89.99,
+      "dimensions": {
+        "height": 9,
+        "diameter": 3.5,
+        "unit": "inches"
+      },
+      "style": "Contemporary",
+      "brand": "Crystal Clear",
+      "description": "Set of 6 premium wine glasses",
+      "capacity": "12 oz",
+      "set_quantity": 6
+    },
+    {
+      "id": 8,
+      "name": "Sideboard Buffet",
+      "category": "Storage",
+      "material": "Reclaimed Wood",
+      "color": "Weathered Gray",
+      "price": 799.99,
+      "dimensions": {
+        "length": 60,
+        "width": 16,
+        "height": 34,
+        "unit": "inches"
+      },
+      "style": "Rustic",
+      "brand": "Farmhouse Furniture",
+      "description": "Rustic sideboard with sliding barn doors",
+      "storage_compartments": 3,
+      "weight": 95
+    },
+    {
+      "id": 9,
+      "name": "Persian Area Rug",
+      "category": "Decor",
+      "material": "Wool",
+      "color": "Burgundy/Gold",
+      "price": 649.99,
+      "dimensions": {
+        "length": 108,
+        "width": 72,
+        "unit": "inches"
+      },
+      "style": "Oriental",
+      "brand": "Heritage Rugs",
+      "description": "Hand-knotted Persian style area rug",
+      "pattern": "Traditional Medallion",
+      "pile_height": "0.5 inches"
+    },
+    {
+      "id": 10,
+      "name": "Wall Mirror",
+      "category": "Decor",
+      "material": "Glass with Wooden Frame",
+      "color": "Espresso",
+      "price": 149.99,
+      "dimensions": {
+        "height": 36,
+        "width": 24,
+        "depth": 2,
+        "unit": "inches"
+      },
+      "style": "Modern",
+      "brand": "Reflections Home",
+      "description": "Rectangular wall mirror with beveled edges",
+      "frame_width": "2 inches",
+      "weight": 15
+    },
+    {
+      "id": 11,
+      "name": "Velvet Curtain Panels",
+      "category": "Window Treatments",
+      "material": "Polyester Velvet",
+      "color": "Deep Blue",
+      "price": 79.99,
+      "dimensions": {
+        "length": 84,
+        "width": 50,
+        "unit": "inches"
+      },
+      "style": "Contemporary",
+      "brand": "Window Elegance",
+      "description": "Set of 2 blackout velvet curtain panels",
+      "set_quantity": 2,
+      "header_style": "Grommet"
+    },
+    {
+      "id": 12,
+      "name": "Brass Candle Holders",
+      "category": "Decor",
+      "material": "Solid Brass",
+      "color": "Antique Brass",
+      "price": 59.99,
+      "dimensions": {
+        "height": 8,
+        "diameter": 4,
+        "unit": "inches"
+      },
+      "style": "Vintage",
+      "brand": "Antique Accents",
+      "description": "Set of 3 graduated brass taper candle holders",
+      "candle_size": "Standard Taper",
+      "set_quantity": 3
+    },
+    {
+      "id": 13,
+      "name": "Glass Serving Tray",
+      "category": "Serveware",
+      "material": "Tempered Glass",
+      "color": "Clear",
+      "price": 45.99,
+      "dimensions": {
+        "length": 18,
+        "width": 12,
+        "height": 1,
+        "unit": "inches"
+      },
+      "style": "Modern",
+      "brand": "Serve in Style",
+      "description": "Rectangular glass serving tray with handles",
+      "handles": true,
+      "microwave_safe": false
+    },
+    {
+      "id": 14,
+      "name": "Marble Placemats",
+      "category": "Table Linens",
+      "material": "Genuine Marble",
+      "color": "White with Gray Veining",
+      "price": 119.99,
+      "dimensions": {
+        "length": 12,
+        "width": 18,
+        "thickness": 0.25,
+        "unit": "inches"
+      },
+      "style": "Contemporary",
+      "brand": "Stone Elegance",
+      "description": "Set of 4 natural marble placemats",
+      "set_quantity": 4,
+      "heat_resistant": true
+    },
+    {
+      "id": 15,
+      "name": "Bar Cart",
+      "category": "Furniture",
+      "material": "Gold Metal with Glass Shelves",
+      "color": "Gold/Clear",
+      "price": 299.99,
+      "dimensions": {
+        "length": 30,
+        "width": 16,
+        "height": 32,
+        "unit": "inches"
+      },
+      "style": "Art Deco",
+      "brand": "Cocktail Corner",
+      "description": "Two-tier rolling bar cart with locking wheels",
+      "shelves": 2,
+      "wheels": true
+    },
+    {
+      "id": 16,
+      "name": "Table Centerpiece Bowl",
+      "category": "Decor",
+      "material": "Ceramic",
+      "color": "Turquoise",
+      "price": 67.99,
+      "dimensions": {
+        "diameter": 14,
+        "height": 6,
+        "unit": "inches"
+      },
+      "style": "Mediterranean",
+      "brand": "Artisan Pottery",
+      "description": "Hand-painted ceramic decorative bowl",
+      "handmade": true,
+      "food_safe": true
+    },
+    {
+      "id": 17,
+      "name": "Floor Lamp",
+      "category": "Lighting",
+      "material": "Brushed Steel with Fabric Shade",
+      "color": "Silver/White",
+      "price": 189.99,
+      "dimensions": {
+        "height": 62,
+        "shade_diameter": 18,
+        "unit": "inches"
+      },
+      "style": "Modern",
+      "brand": "Illuminate Home",
+      "description": "Contemporary floor lamp with adjustable height",
+      "bulb_type": "E26 Standard",
+      "wattage": 100
+    },
+    {
+      "id": 18,
+      "name": "Salt and Pepper Mill Set",
+      "category": "Tableware",
+      "material": "Acacia Wood",
+      "color": "Natural Wood",
+      "price": 39.99,
+      "dimensions": {
+        "height": 8,
+        "diameter": 2.5,
+        "unit": "inches"
+      },
+      "style": "Natural",
+      "brand": "Spice & Season",
+      "description": "Pair of wooden salt and pepper mills with ceramic grinder",
+      "grinder_type": "Ceramic",
+      "set_quantity": 2
+    },
+    {
+      "id": 19,
+      "name": "Napkin Rings",
+      "category": "Table Accessories",
+      "material": "Sterling Silver",
+      "color": "Silver",
+      "price": 89.99,
+      "dimensions": {
+        "diameter": 2,
+        "height": 1.5,
+        "unit": "inches"
+      },
+      "style": "Classic",
+      "brand": "Silver Traditions",
+      "description": "Set of 6 engraved sterling silver napkin rings",
+      "set_quantity": 6,
+      "tarnish_resistant": true
+    },
+    {
+      "id": 20,
+      "name": "Abstract Wall Art",
+      "category": "Decor",
+      "material": "Canvas with Acrylic Paint",
+      "color": "Multi-Color",
+      "price": 199.99,
+      "dimensions": {
+        "height": 24,
+        "width": 36,
+        "depth": 1.5,
+        "unit": "inches"
+      },
+      "style": "Abstract",
+      "brand": "Gallery Originals",
+      "description": "Original abstract painting on stretched canvas",
+      "framed": false,
+      "signed": true
+    }
+  ]
+}
